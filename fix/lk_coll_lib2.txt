@@ -1,0 +1,202 @@
+A01|Arts, création, vie pratique
+A13|Arts, création, vie pratique
+A142|Arts, création, vie pratique
+A143|Cinéma
+A144|Cinéma
+AAPATAP|Arts, création, vie pratique
+AAPATLC|Arts, création, vie pratique
+AAPBDCM|Arts, création, vie pratique
+AAPBDDC|Arts, création, vie pratique
+AAPBDER|Arts, création, vie pratique
+AAPBDMG|Arts, création, vie pratique
+AAPBDSR|Arts, création, vie pratique
+AAPBDZZ|Arts, création, vie pratique
+AAPCGDA|Arts, création, vie pratique
+AAPCGDD|Arts, création, vie pratique
+AAPCGVI|Arts, création, vie pratique
+AAPCIDC|Arts, création, vie pratique
+AAPCIFI|Arts, création, vie pratique
+AAPCIMF|Arts, création, vie pratique
+AAPCITV|Arts, création, vie pratique
+AAPPLCB|Arts, création, vie pratique
+AAPPLFF|Arts, création, vie pratique
+AAPPLGO|Arts, création, vie pratique
+AAPPLHU|Arts, création, vie pratique
+AAPPLMS|Arts, création, vie pratique
+AAPPLPA|Arts, création, vie pratique
+AAPPLPS|Arts, création, vie pratique
+AAPPLSL|Arts, création, vie pratique
+AAPPRLD|Arts, création, vie pratique
+AAPPRLP|Arts, création, vie pratique
+ACFBPZZ|Comprendre et se former
+ACFHSZZ|Comprendre et se former
+ACFIFZZ|Comprendre et se former
+ACFLAFF|Comprendre et se former
+ACFLALE|Comprendre et se former
+ACFPAZZ|Comprendre et se former
+ACFPDZZ|Comprendre et se former
+ACFPHZZ|Comprendre et se former
+ACFPMZZ|Arts, création, vie pratique
+ACFREZZ|Comprendre et se former
+ACFRUZZ|Comprendre et se former
+ACFSCZZ|Comprendre et se former
+ACFSSZZ|Comprendre et se former
+ACFUEZZ|Comprendre et se former
+ALTDCZZ|Littératures
+ALTIGFA|Littératures
+ALTIGSF|Littératures
+ALTLSZZ|Littératures
+ALTLVZZ|Littératures
+ALTPOZZ|Littératures
+ALTROAD|Littératures
+ALTROAM|Littératures
+ALTROPL|Littératures
+ALTROZZ|Littératures
+ALTTCCN|Littératures
+ALTTCNV|Littératures
+ALTTLZZ|Littératures
+AMV00ZZ|Musique et arts vivants
+AMV11ZZ|Musique et arts vivants
+AMV13ZZ|Musique et arts vivants
+AMV14ZZ|Musique et arts vivants
+AMV15ZZ|Musique et arts vivants
+AMV16ZZ|Musique et arts vivants
+AMV20ZZ|Musique et arts vivants
+AMV25ZZ|Musique et arts vivants
+AMV29ZZ|Musique et arts vivants
+AMV30ZZ|Musique et arts vivants
+AMV39ZZ|Musique et arts vivants
+AMV40ZZ|Musique et arts vivants
+AMV50ZZ|Musique et arts vivants
+AMV80ZZ|Musique et arts vivants
+AMV90ZZ|Musique et arts vivants
+AMVASCA|Musique et arts vivants
+AMVASDC|Musique et arts vivants
+AMVTHCA|Musique et arts vivants
+AMVTHDC|Musique et arts vivants
+AMVTHTX|Musique et arts vivants
+AZZMAZZ|Divers
+D01|Musique et arts vivants
+D010|Musique et arts vivants
+D011|Musique et arts vivants
+D012|Musique et arts vivants
+D013|Musique et arts vivants
+D014|Musique et arts vivants
+D015|Musique et arts vivants
+D0152|Musique et arts vivants
+D017|Musique
+D019|Musique et arts vivants
+D02|Musique et arts vivants
+D03|Musique et arts vivants
+D04|Musique et arts vivants
+D05|Musique et arts vivants
+D06|Musique et arts vivants
+D07|Musique et arts vivants
+D08|Musique et arts vivants
+D10|Musique et arts vivants
+D11|Musique et arts vivants
+D12|Musique et arts vivants
+D14|Musique et arts vivants
+D21|Musique et arts vivants
+D22|Patrimoine audiovisuel
+D23|Patrimoine audiovisuel
+D25|Patrimoine audiovisuel
+D26|Patrimoine audiovisuel
+D28|Patrimoine audiovisuel
+D29|Patrimoine audiovisuel
+D30|Musique et arts vivants
+D32|Comprendre et se former
+D34|Comprendre et se former
+D35|Comprendre et se former
+E28|Littératures
+E29|Arts, création, vie pratique
+E30|Littératures
+E31|Roubaix et sa région
+E32|Littératures
+E33|Littératures
+E34|Littératures
+E35|Comprendre et se former
+E36|Littératures
+J01|Romans
+J02|Romans
+J03|Romans
+J04|Albums
+J05|Albums
+J051|Albums
+J052|Albums
+J053|Albums
+J07|Albums
+J071|Albums
+J08|Romans
+J09|BD
+J11|Documentaires
+J111|Documentaires
+J14|Albums
+J26|Albums
+J27|Documentaires
+J28|Albums
+J29|Romans
+J30|Albums
+J31|Documentaires
+J32|Presse jeunesse
+JABCTEF|Albums
+JABCTPE|Albums
+JABEFAE|Albums
+JABEFDT|Albums
+JABHLZZ|Albums
+JABLADT|Albums
+JABLAFI|Albums
+JABLPZZ|Albums
+JABPFAF|Albums
+JABPFCO|Albums
+JABPFEV|Albums
+JABPFIP|Albums
+JBDCLZZ|Bandes dessinées
+JBDCMZZ|Bandes dessinées
+JBDMGZZ|Bandes dessinées
+JBDPBZZ|Bandes dessinées
+JBDSRZZ|Bandes dessinées
+JBDZZZZ|Bandes dessinées
+JCIDTZZ|Cinéma
+JCIFED1|Cinéma
+JCIFED2|Cinéma
+JCIFED3|Cinéma
+JCIFEF1|Cinéma
+JCIFEF2|Cinéma
+JCIFEMG|Cinéma
+JDT00ZZ|Documentaires
+JDT10ZZ|Documentaires
+JDT20ZZ|Documentaires
+JDT30ZZ|Documentaires
+JDT40ZZ|Documentaires
+JDT50ZZ|Documentaires
+JDT60ZZ|Documentaires
+JDT70ZZ|Documentaires
+JDT80ZZ|Documentaires
+JDT90ZZ|Documentaires
+JDTCPZZ|Documentaires
+JDTFDZZ|Documentaires
+JDTPFZZ|Documentaires
+JMUEFZZ|Musique
+JPOZZZZ|Poésie
+JROHLZZ|Romans
+JROPLZZ|Romans
+JRORMZZ|Romans
+JROROZZ|Romans
+JROSFZZ|Romans
+JTHZZZZ|Théâtre
+PENCVZZ|Patrimoine enregistré
+PENDEZZ|Patrimoine enregistré
+PENHPZZ|Patrimoine enregistré
+PENPDZZ|Patrimoine enregistré
+PENRSZZ|Patrimoine enregistré
+PPAFIZZ|Patrimoine audiovisuel
+PPEFGZZ|Patrimoine écrit
+PPELGZZ|Patrimoine écrit
+PPEPMZZ|Patrimoine écrit
+PPEPRZZ|Patrimoine écrit
+PPIPIZZ|Patrimoine iconographique
+PRRFIZZ|Roubaix et sa région
+PRRMEZZ|Roubaix et sa région
+PRRRGZZ|Roubaix et sa région
+PRRRXZZ|Roubaix et sa région

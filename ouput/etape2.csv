@@ -1,0 +1,965 @@
+agence_cat,biblionumber,collection,collection1,collection2,collection3,collection4,date_transaction,element_initial,point_acces,subd_chrono,subd_forme,subd_geo,subd_sujet,support,unimarc
+BnF,2,"Jeunesse - Albums - Albums pour enfants",Jeunesse,Albums,"Albums pour enfants",INC,1984-01-09,"83 ","83 ",ABS,ABS,ABS,ABS,Livre,f686
+BnF,3,"Jeunesse - Albums - Albums pour enfants",Jeunesse,Albums,"Albums pour enfants",INC,1979-04-24,"83 ","83 ",ABS,ABS,ABS,ABS,Livre,f686
+BnF,4,"Jeunesse - Albums - Albums pour enfants",Jeunesse,Albums,"Albums pour enfants",INC,1980-02-12,"83 ","83 ",ABS,ABS,ABS,ABS,Livre,f686
+BnF,6,"Jeunesse - Albums - Contes pour petits enfants",Jeunesse,Albums,"Contes pour petits enfants",INC,1992-05-05,823,823,ABS,ABS,ABS,ABS,Livre,f686
+BnF,7,"Jeunesse - Albums - Albums pour enfants",Jeunesse,Albums,"Albums pour enfants",INC,1984-04-20,"83 ","83 ",ABS,ABS,ABS,ABS,Livre,f686
+BnF,8,"Jeunesse - Albums - Albums pour enfants",Jeunesse,Albums,"Albums pour enfants",INC,1984-04-20,"83 ","83 ",ABS,ABS,ABS,ABS,Livre,f686
+BnF,9,"Jeunesse - Albums - Contes pour enfants",Jeunesse,Albums,"Contes pour enfants",INC,1990-01-25,823,823,ABS,ABS,ABS,ABS,Livre,f686
+BnF,10,"Jeunesse - Albums - Albums pour enfants",Jeunesse,Albums,"Albums pour enfants",INC,1982-12-27,"83 ","83 ",ABS,ABS,ABS,ABS,Livre,f686
+Roubaix,11,"Adultes - Divers",Adultes,Divers,INC,INC,2016-01-19,"Contes africains","Contes africains - Ouvrages pour la jeunesse - Afrique centrale",ABS,ABS,"Afrique centrale","Ouvrages pour la jeunesse",Livre,f606
+BnF,12,"Jeunesse - Albums - Contes pour enfants",Jeunesse,Albums,"Contes pour enfants",INC,1988-11-15,823,823,ABS,ABS,ABS,ABS,Livre,f686
+BnF,13,"Jeunesse - Albums - Contes en livre sonore",Jeunesse,Albums,"Contes en livre sonore",INC,1990-05-22,823,823,ABS,ABS,ABS,ABS,Livre,f686
+BnF,17,"Jeunesse - Albums - Albums pour enfants",Jeunesse,Albums,"Albums pour enfants",INC,1992-05-05,823,823,ABS,ABS,ABS,ABS,Livre,f686
+BnF,18,"Jeunesse - Albums - Albums pour enfants",Jeunesse,Albums,"Albums pour enfants",INC,1992-05-25,823,823,ABS,ABS,ABS,ABS,Livre,f686
+BnF,19,"Jeunesse - Albums - Albums pour enfants",Jeunesse,Albums,"Albums pour enfants",INC,1984-04-20,"83 ","83 ",ABS,ABS,ABS,ABS,Livre,f686
+Roubaix,22,"Patrimoine - Patrimoine écrit",Patrimoine,"Patrimoine écrit",INC,INC,2011-04-27,"Pinocchio (personnage fictif)","Pinocchio (personnage fictif) - Ouvrages pour la jeunesse",ABS,ABS,ABS,"Ouvrages pour la jeunesse",Livre,f600
+BnF,23,"Jeunesse - Albums - Contes pour enfants",Jeunesse,Albums,"Contes pour enfants",INC,1984-04-20,"Contes roumains","Contes roumains - Ouvrages pour la jeunesse",ABS,ABS,ABS,"Ouvrages pour la jeunesse",Livre,f609
+BnF,23,"Jeunesse - Albums - Contes pour enfants",Jeunesse,Albums,"Contes pour enfants",INC,1984-04-20,"83 ","83 ",ABS,ABS,ABS,ABS,Livre,f686
+BnF,27,"Adultes - Littératures - Courts récits - Contes",Adultes,Littératures,"Courts récits",Contes,1984-04-20,"82 ","82 ",ABS,ABS,ABS,ABS,Livre,f686
+BnF,29,"Jeunesse - Albums - Albums pour enfants",Jeunesse,Albums,"Albums pour enfants",INC,1991-10-10,823,823,ABS,ABS,ABS,ABS,Livre,f686
+BnF,30,"Jeunesse - Romans - Romans pour enfants",Jeunesse,Romans,"Romans pour enfants",INC,1990-11-19,823,823,ABS,ABS,ABS,ABS,Livre,f686
+BnF,31,"Jeunesse - Albums - Albums pour enfants",Jeunesse,Albums,"Albums pour enfants",INC,1989-02-08,823,823,ABS,ABS,ABS,ABS,Livre,f686
+BnF,32,"Jeunesse - Albums - Albums pour enfants",Jeunesse,Albums,"Albums pour enfants",INC,1990-11-13,823,823,ABS,ABS,ABS,ABS,Livre,f686
+BnF,33,"Adultes - Divers",Adultes,Divers,INC,INC,1984-04-20,Djoha,"Djoha - personnage légendaire",ABS,ABS,ABS,ABS,Livre,f600
+BnF,33,"Adultes - Divers",Adultes,Divers,INC,INC,1984-04-20,"398.209 61","398.209 61",ABS,ABS,ABS,ABS,Livre,f676
+BnF,33,"Adultes - Divers",Adultes,Divers,INC,INC,1984-04-20,82,82,ABS,ABS,ABS,ABS,Livre,f686
+BnF,34,"Jeunesse - Albums - Albums pour enfants",Jeunesse,Albums,"Albums pour enfants",INC,1990-11-07,823,823,ABS,ABS,ABS,ABS,Livre,f686
+BnF,35,"Jeunesse - Albums - Albums pour enfants",Jeunesse,Albums,"Albums pour enfants",INC,1990-07-04,823,823,ABS,ABS,ABS,ABS,Livre,f686
+BnF,36,"Jeunesse - Albums - Contes pour enfants",Jeunesse,Albums,"Contes pour enfants",INC,1984-04-20,"Contes africains","Contes africains - Ouvrages pour la jeunesse - Afrique du Nord",ABS,ABS,"Afrique du Nord","Ouvrages pour la jeunesse",Livre,f609
+BnF,36,"Jeunesse - Albums - Contes pour enfants",Jeunesse,Albums,"Contes pour enfants",INC,1984-04-20,"Contes berbères","Contes berbères - Ouvrages pour la jeunesse",ABS,ABS,ABS,"Ouvrages pour la jeunesse",Livre,f609
+BnF,36,"Jeunesse - Albums - Contes pour enfants",Jeunesse,Albums,"Contes pour enfants",INC,1984-04-20,"82 ","82 ",ABS,ABS,ABS,ABS,Livre,f686
+BnF,37,"Jeunesse - Albums - Albums pour enfants",Jeunesse,Albums,"Albums pour enfants",INC,1991-10-18,823,823,ABS,ABS,ABS,ABS,Livre,f686
+BnF,38,"Jeunesse - Albums - Albums petits enfants",Jeunesse,Albums,"Albums petits enfants",INC,1990-11-07,823,823,ABS,ABS,ABS,ABS,Livre,f686
+Roubaix,39,"Patrimoine - Patrimoine écrit",Patrimoine,"Patrimoine écrit",INC,INC,2009-11-04,"Polichinelle (personnage fictif)","Polichinelle (personnage fictif)",ABS,ABS,ABS,ABS,Livre,f600
+BnF,40,"Jeunesse - Albums - Contes pour enfants",Jeunesse,Albums,"Contes pour enfants",INC,1992-04-10,fiction,fiction,ABS,ABS,ABS,ABS,Livre,f608
+BnF,40,"Jeunesse - Albums - Contes pour enfants",Jeunesse,Albums,"Contes pour enfants",INC,1992-04-10,"œuvre d'origine : conte, nouvelle, récit","œuvre d'origine : conte, nouvelle, récit",ABS,ABS,ABS,ABS,Livre,f608
+BnF,41,"Jeunesse - Albums - Albums pour enfants",Jeunesse,Albums,"Albums pour enfants",INC,1984-01-23,"83 ","83 ",ABS,ABS,ABS,ABS,Livre,f686
+BnF,43,"Jeunesse - Albums - Albums pour enfants",Jeunesse,Albums,"Albums pour enfants",INC,1984-04-20,"83 ","83 ",ABS,ABS,ABS,ABS,Livre,f686
+BnF,45,INC,INC,INC,INC,INC,1984-04-20,"83 ","83 ",ABS,ABS,ABS,ABS,Livre,f686
+BnF,49,"Jeunesse - Albums - Albums pour enfants",Jeunesse,Albums,"Albums pour enfants",INC,1989-12-07,823,823,ABS,ABS,ABS,ABS,Livre,f686
+BnF,51,"Jeunesse - Albums - Albums pour enfants",Jeunesse,Albums,"Albums pour enfants",INC,1979-04-23,"83 ","83 ",ABS,ABS,ABS,ABS,Livre,f686
+BnF,52,"Jeunesse - Albums - Albums en langue étrangère - Fiction",Jeunesse,Albums,"Albums en langue étrangère",Fiction,1980-04-09,"894.353 3","894.353 3",ABS,ABS,ABS,ABS,Livre,f676
+BnF,52,"Jeunesse - Albums - Albums en langue étrangère - Fiction",Jeunesse,Albums,"Albums en langue étrangère",Fiction,1980-04-09,"83 ","83 ",ABS,ABS,ABS,ABS,Livre,f686
+BnF,53,"Adultes - Divers",Adultes,Divers,INC,INC,1983-08-17,"83 ","83 ",ABS,ABS,ABS,ABS,Livre,f686
+BnF,56,"Adultes - Divers",Adultes,Divers,INC,INC,1993-03-08,823,823,ABS,ABS,ABS,ABS,Livre,f686
+BnF,57,"Jeunesse - Albums - Albums pour enfants",Jeunesse,Albums,"Albums pour enfants",INC,1984-04-20,"83 ","83 ",ABS,ABS,ABS,ABS,Livre,f686
+BnF,58,"Jeunesse - Albums - Albums pour enfants",Jeunesse,Albums,"Albums pour enfants",INC,1984-04-20,83,83,ABS,ABS,ABS,ABS,Livre,f686
+BnF,59,"Jeunesse - Albums - Albums pour enfants",Jeunesse,Albums,"Albums pour enfants",INC,1984-01-23,"83 ","83 ",ABS,ABS,ABS,ABS,Livre,f686
+BnF,60,"Jeunesse - Albums - Albums pour enfants",Jeunesse,Albums,"Albums pour enfants",INC,1980-02-12,"83 ","83 ",ABS,ABS,ABS,ABS,Livre,f686
+BnF,61,"Jeunesse - Albums - Albums pour enfants",Jeunesse,Albums,"Albums pour enfants",INC,1984-04-20,"83 ","83 ",ABS,ABS,ABS,ABS,Livre,f686
+Roubaix,68,"Patrimoine - Patrimoine écrit",Patrimoine,"Patrimoine écrit",INC,INC,2013-08-14,ABS,ABS,ABS,ABS,ABS,ABS,Livre,ABS
+BnF,69,"Adultes - Littératures - Romans - Romans",Adultes,Littératures,Romans,Romans,1993-04-14,823,823,ABS,ABS,ABS,ABS,Livre,f686
+BnF,70,"Adultes - Littératures - Romans - Romans",Adultes,Littératures,Romans,Romans,1993-04-15,823,823,ABS,ABS,ABS,ABS,Livre,f686
+BnF,72,"Adultes - Littératures - Romans - Romans",Adultes,Littératures,Romans,Romans,1993-05-12,823,823,ABS,ABS,ABS,ABS,Livre,f686
+BnF,73,"Adultes - Littératures - Romans - Romans",Adultes,Littératures,Romans,Romans,1993-04-14,823,823,ABS,ABS,ABS,ABS,Livre,f686
+BnF,76,"Adultes - Arts, création, vie pratique - Vie pratique et loisirs - Sports et loisirs",Adultes,"Arts, création, vie pratique","Vie pratique et loisirs","Sports et loisirs",1994-10-14,Bière,"Bière - Objets de collection - Europe",ABS,ABS,Europe,"Objets de collection",Livre,f606
+BnF,76,"Adultes - Arts, création, vie pratique - Vie pratique et loisirs - Sports et loisirs",Adultes,"Arts, création, vie pratique","Vie pratique et loisirs","Sports et loisirs",1994-10-14,"70 ","70 ",ABS,ABS,ABS,ABS,Livre,f686
+BnF,79,"Adultes - Littératures - Romans - Romans",Adultes,Littératures,Romans,Romans,1994-06-21,813.54,813.54,ABS,ABS,ABS,ABS,Livre,f676
+BnF,79,"Adultes - Littératures - Romans - Romans",Adultes,Littératures,Romans,Romans,1994-06-21,823,823,ABS,ABS,ABS,ABS,Livre,f686
+BnF,84,"Adultes - Littératures - Romans - Romans",Adultes,Littératures,Romans,Romans,1993-04-14,823,823,ABS,ABS,ABS,ABS,Livre,f686
+BnF,87,"Adultes - Musique et arts vivants - Arts vivants - Théâtre (textes)",Adultes,"Musique et arts vivants","Arts vivants","Théâtre (textes)",1993-04-22,822,822,ABS,ABS,ABS,ABS,Livre,f686
+BnF,89,"Adultes - Littératures - Poésie",Adultes,Littératures,Poésie,INC,1994-05-11,Poétique,Poétique,ABS,ABS,ABS,ABS,Livre,f606
+BnF,89,"Adultes - Littératures - Poésie",Adultes,Littératures,Poésie,INC,1994-05-11,841.914,841.914,ABS,ABS,ABS,ABS,Livre,f676
+BnF,89,"Adultes - Littératures - Poésie",Adultes,Littératures,Poésie,INC,1994-05-11,"80 ","80 ",ABS,ABS,ABS,ABS,Livre,f686
+BnF,90,"Adultes - Musique et arts vivants - Arts vivants - Théâtre (textes)",Adultes,"Musique et arts vivants","Arts vivants","Théâtre (textes)",1993-04-08,822,822,ABS,ABS,ABS,ABS,Livre,f686
+BnF,92,"Adultes - Littératures - Textes littéraires",Adultes,Littératures,"Textes littéraires",INC,1993-06-17,843.914,843.914,ABS,ABS,ABS,ABS,Livre,f676
+BnF,92,"Adultes - Littératures - Textes littéraires",Adultes,Littératures,"Textes littéraires",INC,1993-06-17,824,824,ABS,ABS,ABS,ABS,Livre,f686
+BnF,93,"Adultes - Musique et arts vivants - Arts vivants - Théâtre (textes)",Adultes,"Musique et arts vivants","Arts vivants","Théâtre (textes)",1993-04-08,842.914,842.914,ABS,ABS,ABS,ABS,Livre,f676
+BnF,93,"Adultes - Musique et arts vivants - Arts vivants - Théâtre (textes)",Adultes,"Musique et arts vivants","Arts vivants","Théâtre (textes)",1993-04-08,822,822,ABS,ABS,ABS,ABS,Livre,f686
+BnF,94,"Adultes - Divers",Adultes,Divers,INC,INC,1993-03-22,"Front national","Front national - France , 1972-...",ABS,ABS,ABS,ABS,Livre,f601
+BnF,94,"Adultes - Divers",Adultes,Divers,INC,INC,1993-03-22,"Front national","Front national - France , 1972-... - Finances",ABS,ABS,ABS,Finances,Livre,f601
+BnF,94,"Adultes - Divers",Adultes,Divers,INC,INC,1993-03-22,"Chefs d'entreprise","Chefs d'entreprise - France",ABS,ABS,France,ABS,Livre,f606
+BnF,94,"Adultes - Divers",Adultes,Divers,INC,INC,1993-03-22,"324.244 083","324.244 083",ABS,ABS,ABS,ABS,Livre,f676
+BnF,94,"Adultes - Divers",Adultes,Divers,INC,INC,1993-03-22,"32 ","32 ",ABS,ABS,ABS,ABS,Livre,f686
+BnF,95,"Adultes - Musique et arts vivants - Arts vivants - Théâtre (textes)",Adultes,"Musique et arts vivants","Arts vivants","Théâtre (textes)",1993-04-05,842.914,842.914,ABS,ABS,ABS,ABS,Livre,f676
+BnF,95,"Adultes - Musique et arts vivants - Arts vivants - Théâtre (textes)",Adultes,"Musique et arts vivants","Arts vivants","Théâtre (textes)",1993-04-05,822,822,ABS,ABS,ABS,ABS,Livre,f686
+BnF,96,"Adultes - Divers",Adultes,Divers,INC,INC,1993-04-13," Matisse   Henri   1869-1954"," Matisse  -  Henri  -  1869-1954 - Catalogues d'exposition",ABS,ABS,ABS,"Catalogues d'exposition",Livre,f600
+BnF,96,"Adultes - Divers",Adultes,Divers,INC,INC,1993-04-13,"70 ","70 ",ABS,ABS,ABS,ABS,Livre,f686
+Roubaix,104,"Patrimoine - Patrimoine écrit",Patrimoine,"Patrimoine écrit",INC,INC,2011-05-20,"Roubaix (Nord)","Roubaix (Nord) - Roman",ABS,ABS,ABS,Roman,Livre,f607
+BnF,109,"Adultes - Littératures - Romans - Romans",Adultes,Littératures,Romans,Romans,1993-03-16,823,823,ABS,ABS,ABS,ABS,Livre,f686
+BnF,111,"Adultes - Littératures - Romans - Romans",Adultes,Littératures,Romans,Romans,1993-03-26,823,823,ABS,ABS,ABS,ABS,Livre,f686
+BnF,115,"Adultes - Littératures - Romans - Romans",Adultes,Littératures,Romans,Romans,1993-04-23,823,823,ABS,ABS,ABS,ABS,Livre,f686
+BnF,120,"Adultes - Littératures - Romans - Romans",Adultes,Littératures,Romans,Romans,1993-04-26,824,824,ABS,ABS,ABS,ABS,Livre,f686
+Roubaix,122,"Adultes - Musique et arts vivants - Musique - Métal",Adultes,"Musique et arts vivants",Musique,Métal,2007-08-28,"Rock (musique)","Rock (musique) - Disques - Angleterre (GB)",ABS,ABS,"Angleterre (GB)",Disques,"Disque compact",f606
+Roubaix,122,"Adultes - Musique et arts vivants - Musique - Métal",Adultes,"Musique et arts vivants",Musique,Métal,2007-08-28,"Hard rock","Hard rock - Disques - Angleterre (GB)",ABS,ABS,"Angleterre (GB)",Disques,"Disque compact",f606
+Roubaix,122,"Adultes - Musique et arts vivants - Musique - Métal",Adultes,"Musique et arts vivants",Musique,Métal,2007-08-28,"Guitare, Musique de (rock)","Guitare, Musique de (rock) - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,122,"Adultes - Musique et arts vivants - Musique - Métal",Adultes,"Musique et arts vivants",Musique,Métal,2007-08-28,2,2,ABS,ABS,ABS,ABS,"Disque compact",f679
+BnF,123,"Adultes - Littératures - Courts récits - Nouvelles",Adultes,Littératures,"Courts récits",Nouvelles,1993-04-23,813.54,813.54,ABS,ABS,ABS,ABS,Livre,f676
+BnF,123,"Adultes - Littératures - Courts récits - Nouvelles",Adultes,Littératures,"Courts récits",Nouvelles,1993-04-23,823,823,ABS,ABS,ABS,ABS,Livre,f686
+Roubaix,125,"Adultes - Musique et arts vivants - Musique - Rock",Adultes,"Musique et arts vivants",Musique,Rock,2007-08-28,"Rock (musique)","Rock (musique) - Disques - Londres (GB)",ABS,ABS,"Londres (GB)",Disques,"Disque compact",f606
+Roubaix,125,"Adultes - Musique et arts vivants - Musique - Rock",Adultes,"Musique et arts vivants",Musique,Rock,2007-08-28,2,2,ABS,ABS,ABS,ABS,"Disque compact",f679
+Autre,126,"Adultes - Musique et arts vivants - Musique - Chanson francophone",Adultes,"Musique et arts vivants",Musique,"Chanson francophone",,"Rock (musique)","Rock (musique) - Disques - France",ABS,ABS,France,Disques,"Disque compact",f606
+Autre,126,"Adultes - Musique et arts vivants - Musique - Chanson francophone",Adultes,"Musique et arts vivants",Musique,"Chanson francophone",,"Rock alternatif","Rock alternatif - Disques - France",ABS,ABS,France,Disques,"Disque compact",f606
+Autre,126,"Adultes - Musique et arts vivants - Musique - Chanson francophone",Adultes,"Musique et arts vivants",Musique,"Chanson francophone",,2,2,ABS,ABS,ABS,ABS,"Disque compact",f679
+Autre,128,"Adultes - Musique et arts vivants - Musique - Musique classique",Adultes,"Musique et arts vivants",Musique,"Musique classique",,"Violon, Musique de","Violon, Musique de - Interprétation",ABS,ABS,ABS,Interprétation,"Disque compact",f606
+Autre,128,"Adultes - Musique et arts vivants - Musique - Musique classique",Adultes,"Musique et arts vivants",Musique,"Musique classique",,Musique,"Musique - Disques - 19e siècle","19e siècle",ABS,ABS,Disques,"Disque compact",f606
+Autre,128,"Adultes - Musique et arts vivants - Musique - Musique classique",Adultes,"Musique et arts vivants",Musique,"Musique classique",,3.41,3.41,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,129,"Adultes - Musique et arts vivants - Musique - Métal",Adultes,"Musique et arts vivants",Musique,Métal,2011-05-25,"Rock (musique)","Rock (musique) - Disques - Etats-Unis",ABS,ABS,Etats-Unis,Disques,"Disque compact",f606
+Roubaix,129,"Adultes - Musique et arts vivants - Musique - Métal",Adultes,"Musique et arts vivants",Musique,Métal,2011-05-25,"Guitare, Musique de (rock)","Guitare, Musique de (rock) - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,129,"Adultes - Musique et arts vivants - Musique - Métal",Adultes,"Musique et arts vivants",Musique,Métal,2011-05-25,"Heavy metal","Heavy metal - Disques - Etats-Unis",ABS,ABS,Etats-Unis,Disques,"Disque compact",f606
+Roubaix,129,"Adultes - Musique et arts vivants - Musique - Métal",Adultes,"Musique et arts vivants",Musique,Métal,2011-05-25,2,2,ABS,ABS,ABS,ABS,"Disque compact",f679
+BnF,131,"Adultes - Littératures - Romans - Romans",Adultes,Littératures,Romans,Romans,1993-04-06,813.54,813.54,ABS,ABS,ABS,ABS,Livre,f676
+BnF,131,"Adultes - Littératures - Romans - Romans",Adultes,Littératures,Romans,Romans,1993-04-06,823,823,ABS,ABS,ABS,ABS,Livre,f686
+BnF,132,"Adultes - Littératures - Textes littéraires",Adultes,Littératures,"Textes littéraires",INC,1993-04-22," Miller   Henry   1891-1980"," Miller  -  Henry  -  1891-1980 - Entretiens",ABS,ABS,ABS,Entretiens,Livre,f600
+BnF,132,"Adultes - Littératures - Textes littéraires",Adultes,Littératures,"Textes littéraires",INC,1993-04-22,813.5,813.5,ABS,ABS,ABS,ABS,Livre,f676
+BnF,132,"Adultes - Littératures - Textes littéraires",Adultes,Littératures,"Textes littéraires",INC,1993-04-22,824,824,ABS,ABS,ABS,ABS,Livre,f686
+BnF,133,"Adultes - Littératures - Courts récits - Nouvelles",Adultes,Littératures,"Courts récits",Nouvelles,1993-07-09,813.5,813.5,ABS,ABS,ABS,ABS,Livre,f676
+BnF,133,"Adultes - Littératures - Courts récits - Nouvelles",Adultes,Littératures,"Courts récits",Nouvelles,1993-07-09,823,823,ABS,ABS,ABS,ABS,Livre,f686
+BnF,134,"Adultes - Littératures - Romans - Romans",Adultes,Littératures,Romans,Romans,1993-03-15,813.54,813.54,ABS,ABS,ABS,ABS,Livre,f676
+BnF,134,"Adultes - Littératures - Romans - Romans",Adultes,Littératures,Romans,Romans,1993-03-15,823,823,ABS,ABS,ABS,ABS,Livre,f686
+Autre,135,"Patrimoine - Patrimoine enregistré - Fonds local régional sonore",Patrimoine,"Patrimoine enregistré","Fonds local régional sonore",INC,,"Musique traditionnelle","Musique traditionnelle - Disques - France",ABS,ABS,France,Disques,"Disque compact",f606
+Autre,135,"Patrimoine - Patrimoine enregistré - Fonds local régional sonore",Patrimoine,"Patrimoine enregistré","Fonds local régional sonore",INC,,"Musique traditionnelle","Musique traditionnelle - Disques - Nord",ABS,ABS,Nord,Disques,"Disque compact",f606
+Autre,135,"Patrimoine - Patrimoine enregistré - Fonds local régional sonore",Patrimoine,"Patrimoine enregistré","Fonds local régional sonore",INC,,"Chansons françaises","Chansons françaises - Disques - Dunkerque (Nord)",ABS,ABS,"Dunkerque (Nord)",Disques,"Disque compact",f606
+Autre,135,"Patrimoine - Patrimoine enregistré - Fonds local régional sonore",Patrimoine,"Patrimoine enregistré","Fonds local régional sonore",INC,,"Carnavals, Musique de","Carnavals, Musique de - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Autre,135,"Patrimoine - Patrimoine enregistré - Fonds local régional sonore",Patrimoine,"Patrimoine enregistré","Fonds local régional sonore",INC,,095.2,095.2,ABS,ABS,ABS,ABS,"Disque compact",f679
+BnF,137,"Adultes - Littératures - Romans - Romans",Adultes,Littératures,Romans,Romans,1993-05-13,843,843,ABS,ABS,ABS,ABS,Livre,f676
+BnF,137,"Adultes - Littératures - Romans - Romans",Adultes,Littératures,Romans,Romans,1993-05-13,823,823,ABS,ABS,ABS,ABS,Livre,f686
+BnF,145,"Adultes - Divers",Adultes,Divers,INC,INC,1993-04-06,Intellectuels,"Intellectuels - Biographies",ABS,ABS,ABS,Biographies,Livre,f606
+BnF,145,"Adultes - Divers",Adultes,Divers,INC,INC,1993-04-06,Intellectuels,"Intellectuels - Moeurs et coutumes",ABS,ABS,ABS,"Moeurs et coutumes",Livre,f606
+BnF,145,"Adultes - Divers",Adultes,Divers,INC,INC,1993-04-06,"92 ","92 ",ABS,ABS,ABS,ABS,Livre,f686
+BnF,146,"Adultes - Divers",Adultes,Divers,INC,INC,1993-03-10,"Eglise de scientologie d'Ile de France","Eglise de scientologie d'Ile de France",ABS,ABS,ABS,ABS,Livre,f601
+BnF,146,"Adultes - Divers",Adultes,Divers,INC,INC,1993-03-10,Scientologie,Scientologie,ABS,ABS,ABS,ABS,Livre,f606
+BnF,146,"Adultes - Divers",Adultes,Divers,INC,INC,1993-03-10,Sectes,"Sectes - France",ABS,ABS,France,ABS,Livre,f606
+BnF,146,"Adultes - Divers",Adultes,Divers,INC,INC,1993-03-10,"Crimes et criminels","Crimes et criminels - France",ABS,ABS,France,ABS,Livre,f606
+BnF,146,"Adultes - Divers",Adultes,Divers,INC,INC,1993-03-10,"306.699 9360944","306.699 9360944",ABS,ABS,ABS,ABS,Livre,f676
+BnF,146,"Adultes - Divers",Adultes,Divers,INC,INC,1993-03-10,"32 ","32 ",ABS,ABS,ABS,ABS,Livre,f686
+Roubaix,147,"Patrimoine - Patrimoine écrit",Patrimoine,"Patrimoine écrit",INC,INC,2012-09-08,"Michel Albin 1873-1943","Michel - Albin - 1873-1943",ABS,ABS,ABS,ABS,Livre,f600
+Roubaix,147,"Patrimoine - Patrimoine écrit",Patrimoine,"Patrimoine écrit",INC,INC,2012-09-08,"Éditeurs","Éditeurs - France - 20e siècle","20e siècle",ABS,France,ABS,Livre,f606
+BnF,148,"Adultes - Littératures - Romans - Romans",Adultes,Littératures,Romans,Romans,1993-04-14,823,823,ABS,ABS,ABS,ABS,Livre,f686
+Autre,155,"Adultes - Musique et arts vivants - Musique - Musique classique",Adultes,"Musique et arts vivants",Musique,"Musique classique",,Ténors,"Ténors - Représentations",ABS,ABS,ABS,Représentations,"Disque compact",f606
+Autre,155,"Adultes - Musique et arts vivants - Musique - Musique classique",Adultes,"Musique et arts vivants",Musique,"Musique classique",,3.99,3.99,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,156,"Patrimoine - Patrimoine enregistré - Fonds local régional sonore",Patrimoine,"Patrimoine enregistré","Fonds local régional sonore",INC,2016-01-31,Jazz,"Jazz - Disques - France",ABS,ABS,France,Disques,"Disque compact",f606
+Roubaix,156,"Patrimoine - Patrimoine enregistré - Fonds local régional sonore",Patrimoine,"Patrimoine enregistré","Fonds local régional sonore",INC,2016-01-31,"Batterie, Musique de (jazz)","Batterie, Musique de (jazz) - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,156,"Patrimoine - Patrimoine enregistré - Fonds local régional sonore",Patrimoine,"Patrimoine enregistré","Fonds local régional sonore",INC,2016-01-31,1,1,ABS,ABS,ABS,ABS,"Disque compact",f679
+BnF,158,INC,INC,INC,INC,INC,1993-03-19,823,823,ABS,ABS,ABS,ABS,Livre,f686
+BnF,159,"Adultes - Littératures - Romans - Romans",Adultes,Littératures,Romans,Romans,1993-04-01,823,823,ABS,ABS,ABS,ABS,Livre,f686
+Autre,162,"Adultes - Musique et arts vivants - Musique - Soul",Adultes,"Musique et arts vivants",Musique,Soul,,"Soul music","Soul music - Disques - Etats-Unis",ABS,ABS,Etats-Unis,Disques,"Disque compact",f606
+Autre,162,"Adultes - Musique et arts vivants - Musique - Soul",Adultes,"Musique et arts vivants",Musique,Soul,,180,180,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,163,"Adultes - Arts, création, vie pratique - Cinéma, télévision et séries TV - Musique de films",Adultes,"Arts, création, vie pratique","Cinéma, télévision et séries TV","Musique de films",2007-08-28,"Musique de film","Musique de film - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,164,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2016-01-27,Crooner,"Crooner - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,164,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2016-01-27,"Musique traditionnelle","Musique traditionnelle - Etats-Unis",ABS,ABS,ABS,Etats-Unis,"Disque compact",f606
+Roubaix,164,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2016-01-27,060.2,060.2,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,165,"Adultes - Musique et arts vivants - Musique - Blues et Gospel",Adultes,"Musique et arts vivants",Musique,"Blues et Gospel",2016-01-27,Blues,"Blues - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,165,"Adultes - Musique et arts vivants - Musique - Blues et Gospel",Adultes,"Musique et arts vivants",Musique,"Blues et Gospel",2016-01-27,"Chicago blues","Chicago blues - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,165,"Adultes - Musique et arts vivants - Musique - Blues et Gospel",Adultes,"Musique et arts vivants",Musique,"Blues et Gospel",2016-01-27,"Guitare, Musique de (blues)","Guitare, Musique de (blues) - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,165,"Adultes - Musique et arts vivants - Musique - Blues et Gospel",Adultes,"Musique et arts vivants",Musique,"Blues et Gospel",2016-01-27,110,110,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,166,"Adultes - Musique et arts vivants - Musique - Jazz",Adultes,"Musique et arts vivants",Musique,Jazz,2016-01-27,Jazz,"Jazz - Disques - Etats-Unis",ABS,ABS,Etats-Unis,Disques,"Disque compact",f606
+Roubaix,166,"Adultes - Musique et arts vivants - Musique - Jazz",Adultes,"Musique et arts vivants",Musique,Jazz,2016-01-27,"Mainstream (jazz)","Mainstream (jazz) - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,166,"Adultes - Musique et arts vivants - Musique - Jazz",Adultes,"Musique et arts vivants",Musique,Jazz,2016-01-27,"Chanteuses de jazz","Chanteuses de jazz - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,166,"Adultes - Musique et arts vivants - Musique - Jazz",Adultes,"Musique et arts vivants",Musique,Jazz,2016-01-27,1,1,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,167,"Adultes - Arts, création, vie pratique - Cinéma, télévision et séries TV - Musique de films",Adultes,"Arts, création, vie pratique","Cinéma, télévision et séries TV","Musique de films",2007-08-28,"Musique de film","Musique de film - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,167,"Adultes - Arts, création, vie pratique - Cinéma, télévision et séries TV - Musique de films",Adultes,"Arts, création, vie pratique","Cinéma, télévision et séries TV","Musique de films",2007-08-28,520,520,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,168,"Adultes - Musique et arts vivants - Musique - Jazz",Adultes,"Musique et arts vivants",Musique,Jazz,2016-07-03,Jazz,"Jazz - Disques - Etats-Unis",ABS,ABS,Etats-Unis,Disques,"Disque compact",f606
+Roubaix,168,"Adultes - Musique et arts vivants - Musique - Jazz",Adultes,"Musique et arts vivants",Musique,Jazz,2016-07-03,"Trompette, Musique de (jazz)","Trompette, Musique de (jazz) - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,168,"Adultes - Musique et arts vivants - Musique - Jazz",Adultes,"Musique et arts vivants",Musique,Jazz,2016-07-03,Be-bop,"Be-bop - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,168,"Adultes - Musique et arts vivants - Musique - Jazz",Adultes,"Musique et arts vivants",Musique,Jazz,2016-07-03,1,1,ABS,ABS,ABS,ABS,"Disque compact",f679
+Autre,169,"Adultes - Musique et arts vivants - Musique - Rap",Adultes,"Musique et arts vivants",Musique,Rap,,"Rap (musique)","Rap (musique) - Disques - Seine-Saint-Denis (France)",ABS,ABS,"Seine-Saint-Denis (France)",Disques,"Disque compact",f606
+Autre,169,"Adultes - Musique et arts vivants - Musique - Rap",Adultes,"Musique et arts vivants",Musique,Rap,,2,2,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,171,"Adultes - Musique et arts vivants - Musique - Rock",Adultes,"Musique et arts vivants",Musique,Rock,2007-08-28,"Rock (musique)","Rock (musique) - Disques - Angleterre (GB)",ABS,ABS,"Angleterre (GB)",Disques,"Disque compact",f606
+Roubaix,171,"Adultes - Musique et arts vivants - Musique - Rock",Adultes,"Musique et arts vivants",Musique,Rock,2007-08-28,2,2,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,173,"Adultes - Musique et arts vivants - Musique - Techno",Adultes,"Musique et arts vivants",Musique,Techno,2007-08-28,"Techno (musique)","Techno (musique) - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,173,"Adultes - Musique et arts vivants - Musique - Techno",Adultes,"Musique et arts vivants",Musique,Techno,2007-08-28,2,2,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,174,"Adultes - Musique et arts vivants - Musique - Rap",Adultes,"Musique et arts vivants",Musique,Rap,2007-08-28,"Rap (musique)","Rap (musique) - Disques - Etats-Unis",ABS,ABS,Etats-Unis,Disques,"Disque compact",f606
+Roubaix,174,"Adultes - Musique et arts vivants - Musique - Rap",Adultes,"Musique et arts vivants",Musique,Rap,2007-08-28,2,2,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,175,"Adultes - Musique et arts vivants - Musique - Jazz",Adultes,"Musique et arts vivants",Musique,Jazz,2016-01-31,ABS,ABS,ABS,ABS,ABS,ABS,"Disque compact",ABS
+Roubaix,177,"Adultes - Musique et arts vivants - Musique - Métal",Adultes,"Musique et arts vivants",Musique,Métal,2011-05-25,"Rock (musique)","Rock (musique) - Disques - Angleterre (GB)",ABS,ABS,"Angleterre (GB)",Disques,"Disque compact",f606
+Roubaix,177,"Adultes - Musique et arts vivants - Musique - Métal",Adultes,"Musique et arts vivants",Musique,Métal,2011-05-25,"Heavy metal","Heavy metal - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,177,"Adultes - Musique et arts vivants - Musique - Métal",Adultes,"Musique et arts vivants",Musique,Métal,2011-05-25,2,2,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,178,"Adultes - Musique et arts vivants - Musique - Variétés",Adultes,"Musique et arts vivants",Musique,Variétés,2005-03-22,ABS,ABS,ABS,ABS,ABS,ABS,"Disque compact",ABS
+Roubaix,179,"Adultes - Musique et arts vivants - Musique - Rock",Adultes,"Musique et arts vivants",Musique,Rock,2007-08-28,"Rock (musique)","Rock (musique) - Disques - Etats-Unis",ABS,ABS,Etats-Unis,Disques,"Disque compact",f606
+Roubaix,179,"Adultes - Musique et arts vivants - Musique - Rock",Adultes,"Musique et arts vivants",Musique,Rock,2007-08-28,"Guitare, Musique de (rock)","Guitare, Musique de (rock) - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,179,"Adultes - Musique et arts vivants - Musique - Rock",Adultes,"Musique et arts vivants",Musique,Rock,2007-08-28,2,2,ABS,ABS,ABS,ABS,"Disque compact",f679
+BnF,181,"Adultes - Musique et arts vivants - Arts vivants - Théâtre (textes)",Adultes,"Musique et arts vivants","Arts vivants","Théâtre (textes)",1996-09-24,822,822,ABS,ABS,ABS,ABS,Livre,f686
+BnF,182,"Adultes - Divers",Adultes,Divers,INC,INC,1993-03-17,"Catastrophes écologiques","Catastrophes écologiques",ABS,ABS,ABS,ABS,Livre,f606
+BnF,182,"Adultes - Divers",Adultes,Divers,INC,INC,1993-03-17,"Écologie humaine","Écologie humaine",ABS,ABS,ABS,ABS,Livre,f606
+BnF,182,"Adultes - Divers",Adultes,Divers,INC,INC,1993-03-17,"50 ","50 ",ABS,ABS,ABS,ABS,Livre,f686
+BnF,184,"Adultes - Divers",Adultes,Divers,INC,INC,1993-05-18,Sectes,"Sectes - 1970-....",1970-....,ABS,ABS,ABS,Livre,f606
+BnF,184,"Adultes - Divers",Adultes,Divers,INC,INC,1993-05-18,209,209,ABS,ABS,ABS,ABS,Livre,f676
+BnF,184,"Adultes - Divers",Adultes,Divers,INC,INC,1993-05-18,"2  ","2  ",ABS,ABS,ABS,ABS,Livre,f686
+Roubaix,187,"Adultes - Divers",Adultes,Divers,INC,INC,2006-12-21,ABS,ABS,ABS,ABS,ABS,ABS,Livre,ABS
+BnF,188,"Adultes - Comprendre et se former - Histoire",Adultes,"Comprendre et se former",Histoire,INC,1993-04-30,"Villes disparues, en ruine, etc.","Villes disparues, en ruine, etc.",ABS,ABS,ABS,ABS,Livre,f606
+BnF,188,"Adultes - Comprendre et se former - Histoire",Adultes,"Comprendre et se former",Histoire,INC,1993-04-30,"Civilisation antique","Civilisation antique",ABS,ABS,ABS,ABS,Livre,f606
+BnF,188,"Adultes - Comprendre et se former - Histoire",Adultes,"Comprendre et se former",Histoire,INC,1993-04-30,"93 ","93 ",ABS,ABS,ABS,ABS,Livre,f686
+BnF,190,"Adultes - Divers",Adultes,Divers,INC,INC,1974-01-01,843,843,ABS,ABS,ABS,ABS,Livre,f676
+BnF,190,"Adultes - Divers",Adultes,Divers,INC,INC,1974-01-01,823,823,ABS,ABS,ABS,ABS,Livre,f686
+BnF,191,"Adultes - Littératures - Romans - Romans",Adultes,Littératures,Romans,Romans,1984-04-20,843,843,ABS,ABS,ABS,ABS,Livre,f676
+BnF,191,"Adultes - Littératures - Romans - Romans",Adultes,Littératures,Romans,Romans,1984-04-20,"83 ","83 ",ABS,ABS,ABS,ABS,Livre,f686
+BnF,195,"Adultes - Littératures - Romans - Romans",Adultes,Littératures,Romans,Romans,1980-10-30,843,843,ABS,ABS,ABS,ABS,Livre,f676
+BnF,195,"Adultes - Littératures - Romans - Romans",Adultes,Littératures,Romans,Romans,1980-10-30,"83 ","83 ",ABS,ABS,ABS,ABS,Livre,f686
+BnF,196,"Adultes - Divers",Adultes,Divers,INC,INC,1984-04-20,"83 ","83 ",ABS,ABS,ABS,ABS,Livre,f686
+BnF,199,"Adultes - Littératures - Romans - Romans",Adultes,Littératures,Romans,Romans,1990-10-17,843,843,ABS,ABS,ABS,ABS,Livre,f676
+BnF,199,"Adultes - Littératures - Romans - Romans",Adultes,Littératures,Romans,Romans,1990-10-17,823,823,ABS,ABS,ABS,ABS,Livre,f686
+BnF,201,"Adultes - Littératures - Courts récits - Nouvelles",Adultes,Littératures,"Courts récits",Nouvelles,1993-04-16,823,823,ABS,ABS,ABS,ABS,Livre,f686
+BnF,202,"Adultes - Comprendre et se former - Sciences sociales",Adultes,"Comprendre et se former","Sciences sociales",INC,1993-04-27,"Groupes rock","Groupes rock - Langage",ABS,ABS,ABS,Langage,Livre,f606
+BnF,202,"Adultes - Comprendre et se former - Sciences sociales",Adultes,"Comprendre et se former","Sciences sociales",INC,1993-04-27,"Musiciens de rock","Musiciens de rock - Langage",ABS,ABS,ABS,Langage,Livre,f606
+BnF,202,"Adultes - Comprendre et se former - Sciences sociales",Adultes,"Comprendre et se former","Sciences sociales",INC,1993-04-27," Français  ( langue )"," Français  ( langue ) - Dictionnaires",ABS,ABS,ABS,Dictionnaires,Livre,f606
+BnF,202,"Adultes - Comprendre et se former - Sciences sociales",Adultes,"Comprendre et se former","Sciences sociales",INC,1993-04-27,824,824,ABS,ABS,ABS,ABS,Livre,f686
+BnF,207,"Adultes - Divers",Adultes,Divers,INC,INC,1993-03-16,"Monet Claude 1840-1926","Monet - Claude - 1840-1926 - Critique et interprétation",ABS,ABS,ABS,"Critique et interprétation",Livre,f600
+BnF,207,"Adultes - Divers",Adultes,Divers,INC,INC,1993-03-16,"70 ","70 ",ABS,ABS,ABS,ABS,Livre,f686
+Autre,208,"Adultes - Musique et arts vivants - Musique - Musique classique",Adultes,"Musique et arts vivants",Musique,"Musique classique",,ABS,ABS,ABS,ABS,ABS,ABS,"Disque compact",ABS
+Roubaix,210,"Adultes - Musique et arts vivants - Musique - Rock",Adultes,"Musique et arts vivants",Musique,Rock,2016-01-31,ABS,ABS,ABS,ABS,ABS,ABS,"Disque compact",ABS
+Roubaix,211,"Adultes - Musique et arts vivants - Musique - Chanson francophone",Adultes,"Musique et arts vivants",Musique,"Chanson francophone",2007-08-28,"Rock (musique)","Rock (musique) - Disques - France",ABS,ABS,France,Disques,"Disque compact",f606
+Roubaix,211,"Adultes - Musique et arts vivants - Musique - Chanson francophone",Adultes,"Musique et arts vivants",Musique,"Chanson francophone",2007-08-28,2,2,ABS,ABS,ABS,ABS,"Disque compact",f679
+BnF,212,"Adultes - Littératures - Romans - Romans",Adultes,Littératures,Romans,Romans,1992-06-19,823,823,ABS,ABS,ABS,ABS,Livre,f686
+Roubaix,214,"Adultes - Arts, création, vie pratique - Cinéma, télévision et séries TV - Musique de films",Adultes,"Arts, création, vie pratique","Cinéma, télévision et séries TV","Musique de films",2007-08-28,"Musique de film","Musique de film - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,214,"Adultes - Arts, création, vie pratique - Cinéma, télévision et séries TV - Musique de films",Adultes,"Arts, création, vie pratique","Cinéma, télévision et séries TV","Musique de films",2007-08-28,520,520,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,215,"Adultes - Arts, création, vie pratique - Cinéma, télévision et séries TV - Musique de films",Adultes,"Arts, création, vie pratique","Cinéma, télévision et séries TV","Musique de films",2016-01-31,"Musique de film","Musique de film - Anthologies",ABS,ABS,ABS,Anthologies,"Disque compact",f606
+Roubaix,215,"Adultes - Arts, création, vie pratique - Cinéma, télévision et séries TV - Musique de films",Adultes,"Arts, création, vie pratique","Cinéma, télévision et séries TV","Musique de films",2016-01-31,520,520,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,216,"Adultes - Musique et arts vivants - Musique - Chanson francophone",Adultes,"Musique et arts vivants",Musique,"Chanson francophone",2016-01-31,ABS,ABS,ABS,ABS,ABS,ABS,"Disque compact",ABS
+Roubaix,217,"Adultes - Musique et arts vivants - Musique - Soul",Adultes,"Musique et arts vivants",Musique,Soul,2011-05-25,Funk,"Funk - Disques - Etats-Unis",ABS,ABS,Etats-Unis,Disques,"Disque compact",f606
+Roubaix,217,"Adultes - Musique et arts vivants - Musique - Soul",Adultes,"Musique et arts vivants",Musique,Soul,2011-05-25,"Violon, Musique de (rock)","Violon, Musique de (rock) - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,217,"Adultes - Musique et arts vivants - Musique - Soul",Adultes,"Musique et arts vivants",Musique,Soul,2011-05-25,"Soul music","Soul music - Disques - Etats-Unis",ABS,ABS,Etats-Unis,Disques,"Disque compact",f606
+Roubaix,217,"Adultes - Musique et arts vivants - Musique - Soul",Adultes,"Musique et arts vivants",Musique,Soul,2011-05-25,180,180,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,218,"Adultes - Musique et arts vivants - Musique - Musique classique",Adultes,"Musique et arts vivants",Musique,"Musique classique",2016-07-03,Opéras,"Opéras - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,218,"Adultes - Musique et arts vivants - Musique - Musique classique",Adultes,"Musique et arts vivants",Musique,"Musique classique",2016-07-03,Musique,"Musique - Disques - 17e siècle","17e siècle",ABS,ABS,Disques,"Disque compact",f606
+Roubaix,218,"Adultes - Musique et arts vivants - Musique - Musique classique",Adultes,"Musique et arts vivants",Musique,"Musique classique",2016-07-03,3,3,ABS,ABS,ABS,ABS,"Disque compact",f679
+Autre,221,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,,Tsiganes,"Tsiganes - Musique",ABS,ABS,ABS,Musique,"Disque compact",f606
+Autre,221,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,,001.1,001.1,ABS,ABS,ABS,ABS,"Disque compact",f679
+Autre,221,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,,"Chansons yiddish","Chansons yiddish - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Autre,221,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,,Klezmer,"Klezmer - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,222,"Adultes - Musique et arts vivants - Musique - Rock",Adultes,"Musique et arts vivants",Musique,Rock,2016-07-03,"Rock (musique)","Rock (musique) - Disques - Angleterre (GB)",ABS,ABS,"Angleterre (GB)",Disques,"Disque compact",f606
+Roubaix,222,"Adultes - Musique et arts vivants - Musique - Rock",Adultes,"Musique et arts vivants",Musique,Rock,2016-07-03,2,2,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,223,"Adultes - Musique et arts vivants - Musique - Rock",Adultes,"Musique et arts vivants",Musique,Rock,2007-08-28,"Rock (musique)","Rock (musique) - Disques - Allemagne",ABS,ABS,Allemagne,Disques,"Disque compact",f606
+Roubaix,223,"Adultes - Musique et arts vivants - Musique - Rock",Adultes,"Musique et arts vivants",Musique,Rock,2007-08-28,"Synthétiseur, Musique de (rock)","Synthétiseur, Musique de (rock) - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,223,"Adultes - Musique et arts vivants - Musique - Rock",Adultes,"Musique et arts vivants",Musique,Rock,2007-08-28,"Musique ambiante","Musique ambiante - Disques - Allemagne",ABS,ABS,Allemagne,Disques,"Disque compact",f606
+Roubaix,223,"Adultes - Musique et arts vivants - Musique - Rock",Adultes,"Musique et arts vivants",Musique,Rock,2007-08-28,2,2,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,224,"Adultes - Musique et arts vivants - Musique - Rock",Adultes,"Musique et arts vivants",Musique,Rock,2007-08-28,"Rock (musique)","Rock (musique) - Disques - Allemagne",ABS,ABS,Allemagne,Disques,"Disque compact",f606
+Roubaix,224,"Adultes - Musique et arts vivants - Musique - Rock",Adultes,"Musique et arts vivants",Musique,Rock,2007-08-28,"Synthétiseur, Musique de (rock)","Synthétiseur, Musique de (rock) - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,224,"Adultes - Musique et arts vivants - Musique - Rock",Adultes,"Musique et arts vivants",Musique,Rock,2007-08-28,"Musique planante","Musique planante - Disques - Allemagne",ABS,ABS,Allemagne,Disques,"Disque compact",f606
+Roubaix,224,"Adultes - Musique et arts vivants - Musique - Rock",Adultes,"Musique et arts vivants",Musique,Rock,2007-08-28,2,2,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,225,"Adultes - Musique et arts vivants - Musique - Musique classique",Adultes,"Musique et arts vivants",Musique,"Musique classique",2016-07-03,"Marie, Sainte Vierge","Marie, Sainte Vierge - Chants et musique",ABS,ABS,ABS,"Chants et musique","Disque compact",f606
+Roubaix,225,"Adultes - Musique et arts vivants - Musique - Musique classique",Adultes,"Musique et arts vivants",Musique,"Musique classique",2016-07-03,Magnificat,"Magnificat - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,225,"Adultes - Musique et arts vivants - Musique - Musique classique",Adultes,"Musique et arts vivants",Musique,"Musique classique",2016-07-03,Motets,"Motets - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,225,"Adultes - Musique et arts vivants - Musique - Musique classique",Adultes,"Musique et arts vivants",Musique,"Musique classique",2016-07-03,"Musique vocale sacrée","Musique vocale sacrée - Disques - Espagne - 16e siècle","16e siècle",ABS,Espagne,Disques,"Disque compact",f606
+Roubaix,225,"Adultes - Musique et arts vivants - Musique - Musique classique",Adultes,"Musique et arts vivants",Musique,"Musique classique",2016-07-03,3,3,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,226,"Adultes - Musique et arts vivants - Musique - Rock",Adultes,"Musique et arts vivants",Musique,Rock,2007-08-28,"Rock (musique)","Rock (musique) - Disques - Etats-Unis",ABS,ABS,Etats-Unis,Disques,"Disque compact",f606
+Roubaix,226,"Adultes - Musique et arts vivants - Musique - Rock",Adultes,"Musique et arts vivants",Musique,Rock,2007-08-28,"Guitare, Musique de (rock)","Guitare, Musique de (rock) - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,226,"Adultes - Musique et arts vivants - Musique - Rock",Adultes,"Musique et arts vivants",Musique,Rock,2007-08-28,2,2,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,227,"Adultes - Musique et arts vivants - Musique - Rock",Adultes,"Musique et arts vivants",Musique,Rock,2016-01-31,ABS,ABS,ABS,ABS,ABS,ABS,"Disque compact",ABS
+Roubaix,228,"Adultes - Musique et arts vivants - Musique - Chanson francophone",Adultes,"Musique et arts vivants",Musique,"Chanson francophone",2016-10-16,"Chansons françaises","Chansons françaises - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,228,"Adultes - Musique et arts vivants - Musique - Chanson francophone",Adultes,"Musique et arts vivants",Musique,"Chanson francophone",2016-10-16,099.2,099.2,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,229,"Adultes - Musique et arts vivants - Musique - Rock",Adultes,"Musique et arts vivants",Musique,Rock,2016-01-31,"Rock (musique)","Rock (musique) - Disques - Angleterre (GB)",ABS,ABS,"Angleterre (GB)",Disques,"Disque compact",f606
+Roubaix,229,"Adultes - Musique et arts vivants - Musique - Rock",Adultes,"Musique et arts vivants",Musique,Rock,2016-01-31,2,2,ABS,ABS,ABS,ABS,"Disque compact",f679
+Autre,230,"Adultes - Musique et arts vivants - Musique - Rock",Adultes,"Musique et arts vivants",Musique,Rock,,"Rock (musique)","Rock (musique) - Disques - Angleterre (GB)",ABS,ABS,"Angleterre (GB)",Disques,"Disque compact",f606
+Autre,230,"Adultes - Musique et arts vivants - Musique - Rock",Adultes,"Musique et arts vivants",Musique,Rock,,2,2,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,231,"Adultes - Musique et arts vivants - Musique - Rock",Adultes,"Musique et arts vivants",Musique,Rock,2016-01-31,"Rock (musique)","Rock (musique) - Disques - Etats-Unis",ABS,ABS,Etats-Unis,Disques,"Disque compact",f606
+Roubaix,231,"Adultes - Musique et arts vivants - Musique - Rock",Adultes,"Musique et arts vivants",Musique,Rock,2016-01-31,2,2,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,232,"Adultes - Musique et arts vivants - Musique - Rock",Adultes,"Musique et arts vivants",Musique,Rock,2011-04-05,Blues,"Blues - Disques - Etats-Unis",ABS,ABS,Etats-Unis,Disques,"Disque compact",f606
+Roubaix,232,"Adultes - Musique et arts vivants - Musique - Rock",Adultes,"Musique et arts vivants",Musique,Rock,2011-04-05,"Rock (musique)","Rock (musique) - Disques - Etats-Unis",ABS,ABS,Etats-Unis,Disques,"Disque compact",f606
+Roubaix,232,"Adultes - Musique et arts vivants - Musique - Rock",Adultes,"Musique et arts vivants",Musique,Rock,2011-04-05,2,2,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,233,"Adultes - Musique et arts vivants - Musique - Musique classique",Adultes,"Musique et arts vivants",Musique,"Musique classique",2016-01-31,ABS,ABS,ABS,ABS,ABS,ABS,"Disque compact",ABS
+Roubaix,234,"Adultes - Musique et arts vivants - Musique - Musique classique",Adultes,"Musique et arts vivants",Musique,"Musique classique",2016-07-03,Opéras,"Opéras - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,234,"Adultes - Musique et arts vivants - Musique - Musique classique",Adultes,"Musique et arts vivants",Musique,"Musique classique",2016-07-03,"Musique romantique (19e siècle)","Musique romantique (19e siècle) - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,234,"Adultes - Musique et arts vivants - Musique - Musique classique",Adultes,"Musique et arts vivants",Musique,"Musique classique",2016-07-03,Musique,"Musique - Disques - France - 19e siècle","19e siècle",ABS,France,Disques,"Disque compact",f606
+Roubaix,234,"Adultes - Musique et arts vivants - Musique - Musique classique",Adultes,"Musique et arts vivants",Musique,"Musique classique",2016-07-03,3,3,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,236,"Adultes - Musique et arts vivants - Musique - Rock",Adultes,"Musique et arts vivants",Musique,Rock,2007-08-28,"Rock (musique)","Rock (musique) - Disques - Allemagne",ABS,ABS,Allemagne,Disques,"Disque compact",f606
+Roubaix,236,"Adultes - Musique et arts vivants - Musique - Rock",Adultes,"Musique et arts vivants",Musique,Rock,2007-08-28,"Pop music","Pop music - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,236,"Adultes - Musique et arts vivants - Musique - Rock",Adultes,"Musique et arts vivants",Musique,Rock,2007-08-28,"Rock progressif","Rock progressif - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,236,"Adultes - Musique et arts vivants - Musique - Rock",Adultes,"Musique et arts vivants",Musique,Rock,2007-08-28,2,2,ABS,ABS,ABS,ABS,"Disque compact",f679
+Autre,237,"Adultes - Musique et arts vivants - Musique - Chanson francophone",Adultes,"Musique et arts vivants",Musique,"Chanson francophone",,"Chansons françaises","Chansons françaises - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Autre,237,"Adultes - Musique et arts vivants - Musique - Chanson francophone",Adultes,"Musique et arts vivants",Musique,"Chanson francophone",,099.2,099.2,ABS,ABS,ABS,ABS,"Disque compact",f679
+Autre,238,"Adultes - Musique et arts vivants - Musique - Chanson francophone",Adultes,"Musique et arts vivants",Musique,"Chanson francophone",,ABS,ABS,ABS,ABS,ABS,ABS,"Disque compact",ABS
+Roubaix,239,"Adultes - Musique et arts vivants - Musique - Musique classique",Adultes,"Musique et arts vivants",Musique,"Musique classique",2007-08-28,Symphonies,"Symphonies - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,239,"Adultes - Musique et arts vivants - Musique - Musique classique",Adultes,"Musique et arts vivants",Musique,"Musique classique",2007-08-28,"Musique romantique (19e siècle)","Musique romantique (19e siècle) - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,239,"Adultes - Musique et arts vivants - Musique - Musique classique",Adultes,"Musique et arts vivants",Musique,"Musique classique",2007-08-28,Musique,"Musique - Disques - France - 19e siècle","19e siècle",ABS,France,Disques,"Disque compact",f606
+Roubaix,239,"Adultes - Musique et arts vivants - Musique - Musique classique",Adultes,"Musique et arts vivants",Musique,"Musique classique",2007-08-28,"Ouvertures (musique)","Ouvertures (musique) - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,239,"Adultes - Musique et arts vivants - Musique - Musique classique",Adultes,"Musique et arts vivants",Musique,"Musique classique",2007-08-28,3,3,ABS,ABS,ABS,ABS,"Disque compact",f679
+BnF,242,"Adultes - Arts, création, vie pratique - Arts - Arts plastiques",Adultes,"Arts, création, vie pratique",Arts,"Arts plastiques",1993-12-15,"Art grec","Art grec",ABS,ABS,ABS,ABS,Livre,f606
+BnF,242,"Adultes - Arts, création, vie pratique - Arts - Arts plastiques",Adultes,"Arts, création, vie pratique",Arts,"Arts plastiques",1993-12-15,Grèce,"Grèce - Civilisation - Jusqu'à 146 av. J.-C.","Jusqu'à 146 av. J.-C.",ABS,ABS,Civilisation,Livre,f607
+BnF,242,"Adultes - Arts, création, vie pratique - Arts - Arts plastiques",Adultes,"Arts, création, vie pratique",Arts,"Arts plastiques",1993-12-15,709.38,709.38,ABS,ABS,ABS,ABS,Livre,f676
+BnF,242,"Adultes - Arts, création, vie pratique - Arts - Arts plastiques",Adultes,"Arts, création, vie pratique",Arts,"Arts plastiques",1993-12-15,"70 ","70 ",ABS,ABS,ABS,ABS,Livre,f686
+Roubaix,243,"Patrimoine - Patrimoine écrit",Patrimoine,"Patrimoine écrit",INC,INC,2011-05-20,"Lille (Nord)","Lille (Nord) - Roman",ABS,ABS,ABS,Roman,Livre,f607
+BnF,244,"Adultes - Littératures - Livres large vision",Adultes,Littératures,"Livres large vision",INC,1992-12-04,823,823,ABS,ABS,ABS,ABS,"Livre en gros caractères",f686
+BnF,245,"Adultes - Littératures - Livres large vision",Adultes,Littératures,"Livres large vision",INC,1992-12-04,823,823,ABS,ABS,ABS,ABS,"Livre en gros caractères",f686
+BnF,246,"Adultes - Littératures - Livres large vision",Adultes,Littératures,"Livres large vision",INC,1991-02-19,823,823,ABS,ABS,ABS,ABS,"Livre en gros caractères",f686
+BnF,247,"Adultes - Divers",Adultes,Divers,INC,INC,1991-10-24,823,823,ABS,ABS,ABS,ABS,Livre,f686
+BnF,248,"Adultes - Divers",Adultes,Divers,INC,INC,1980-04-11,"83 ","83 ",ABS,ABS,ABS,ABS,Livre,f686
+BnF,249,"Adultes - Divers",Adultes,Divers,INC,INC,1992-08-13,Sourds,"Sourds - Communication",ABS,ABS,ABS,Communication,Livre,f606
+BnF,249,"Adultes - Divers",Adultes,Divers,INC,INC,1992-08-13,"Langage par signes","Langage par signes",ABS,ABS,ABS,ABS,Livre,f606
+BnF,249,"Adultes - Divers",Adultes,Divers,INC,INC,1992-08-13,419,419,ABS,ABS,ABS,ABS,Livre,f676
+BnF,249,"Adultes - Divers",Adultes,Divers,INC,INC,1992-08-13,"80 ","80 ",ABS,ABS,ABS,ABS,Livre,f686
+Roubaix,250,"Adultes - Divers",Adultes,Divers,INC,INC,2016-07-03,ABS,ABS,ABS,ABS,ABS,ABS,Livre,ABS
+Roubaix,254,"Adultes - Divers",Adultes,Divers,INC,INC,2005-11-14,ABS,ABS,ABS,ABS,ABS,ABS,Livre,ABS
+Roubaix,255,"Adultes - Divers",Adultes,Divers,INC,INC,2005-11-14,ABS,ABS,ABS,ABS,ABS,ABS,Livre,ABS
+Roubaix,262,"Adultes - Divers",Adultes,Divers,INC,INC,2005-03-22,ABS,ABS,ABS,ABS,ABS,ABS,Livre,ABS
+BnF,265,"Adultes - Littératures - Livres large vision",Adultes,Littératures,"Livres large vision",INC,1992-05-19,823,823,ABS,ABS,ABS,ABS,"Livre en gros caractères",f686
+BnF,266,"Adultes - Littératures - Romans - Romans",Adultes,Littératures,Romans,Romans,1993-03-31,823,823,ABS,ABS,ABS,ABS,Livre,f686
+BnF,267,"Adultes - Divers",Adultes,Divers,INC,INC,1980-04-11,"83 ","83 ",ABS,ABS,ABS,ABS,Livre,f686
+BnF,268,"Adultes - Divers",Adultes,Divers,INC,INC,1980-04-11,"83 ","83 ",ABS,ABS,ABS,ABS,Livre,f686
+Roubaix,270,"Adultes - Divers",Adultes,Divers,INC,INC,2005-03-22,ABS,ABS,ABS,ABS,ABS,ABS,Livre,ABS
+Autre,272,"Adultes - Divers",Adultes,Divers,INC,INC,,ABS,ABS,ABS,ABS,ABS,ABS,Livre,ABS
+Roubaix,275,"Adultes - Divers",Adultes,Divers,INC,INC,2016-07-03,ABS,ABS,ABS,ABS,ABS,ABS,Livre,ABS
+BnF,276,"Adultes - Divers",Adultes,Divers,INC,INC,1993-04-09,843.91,843.91,ABS,ABS,ABS,ABS,Livre,f676
+BnF,276,"Adultes - Divers",Adultes,Divers,INC,INC,1993-04-09,823,823,ABS,ABS,ABS,ABS,Livre,f686
+BnF,277,"Adultes - Littératures - Romans - Romans",Adultes,Littératures,Romans,Romans,1993-04-16,823,823,ABS,ABS,ABS,ABS,Livre,f686
+BnF,278,"Adultes - Littératures - Romans - Romans",Adultes,Littératures,Romans,Romans,1993-03-31,823,823,ABS,ABS,ABS,ABS,Livre,f686
+BnF,279,"Adultes - Littératures - Romans - Romans policiers",Adultes,Littératures,Romans,"Romans policiers",1993-04-29,823,823,ABS,ABS,ABS,ABS,Livre,f686
+BnF,282,"Adultes - Littératures - Courts récits - Contes",Adultes,Littératures,"Courts récits",Contes,1988-03-01,824,824,ABS,ABS,ABS,ABS,Livre,f686
+Roubaix,283,"Patrimoine - Patrimoine écrit",Patrimoine,"Patrimoine écrit",INC,INC,2007-08-28,Marionnettes,Marionnettes,ABS,ABS,ABS,ABS,Livre,f606
+Roubaix,284,"Jeunesse - Albums - Albums pour enfants",Jeunesse,Albums,"Albums pour enfants",INC,2013-03-06,ABS,ABS,ABS,ABS,ABS,ABS,Livre,ABS
+Roubaix,286,"Jeunesse - Albums - Albums pour enfants",Jeunesse,Albums,"Albums pour enfants",INC,2016-07-03,ABS,ABS,ABS,ABS,ABS,ABS,Livre,ABS
+BnF,291,"Jeunesse - Albums - Albums pour enfants",Jeunesse,Albums,"Albums pour enfants",INC,1993-01-08,823,823,ABS,ABS,ABS,ABS,Livre,f686
+Roubaix,292,"Jeunesse - Albums - Albums pour enfants",Jeunesse,Albums,"Albums pour enfants",INC,2005-03-22,ABS,ABS,ABS,ABS,ABS,ABS,Livre,ABS
+Roubaix,293,"Adultes - Divers",Adultes,Divers,INC,INC,2013-06-12,ABS,ABS,ABS,ABS,ABS,ABS,Livre,ABS
+Roubaix,294,"Jeunesse - Albums - Albums pour enfants",Jeunesse,Albums,"Albums pour enfants",INC,2005-03-22,ABS,ABS,ABS,ABS,ABS,ABS,Livre,ABS
+Roubaix,295,"Patrimoine - Patrimoine écrit",Patrimoine,"Patrimoine écrit",INC,INC,2011-05-20,"Guerre mondiale (1914-1918)","Guerre mondiale (1914-1918) - Roman - Nord (France)",ABS,ABS,"Nord (France)",Roman,Livre,f606
+Roubaix,296,"Adultes - Comprendre et se former - Usuels (salle d'étude)",Adultes,"Comprendre et se former","Usuels (salle d'étude)",INC,2007-08-28,"Périodiques français","Périodiques français - Index",ABS,ABS,ABS,Index,Livre,f606
+Roubaix,296,"Adultes - Comprendre et se former - Usuels (salle d'étude)",Adultes,"Comprendre et se former","Usuels (salle d'étude)",INC,2007-08-28,025.4,025.4,ABS,ABS,ABS,ABS,Livre,f676
+Autre,297,"Adultes - Comprendre et se former - Usuels (salle d'étude)",Adultes,"Comprendre et se former","Usuels (salle d'étude)",INC,,"Français (langue)","Français (langue) - Dictionnaires latins",ABS,ABS,ABS,"Dictionnaires latins",Livre,f606
+Autre,297,"Adultes - Comprendre et se former - Usuels (salle d'étude)",Adultes,"Comprendre et se former","Usuels (salle d'étude)",INC,,473.2,473.2,ABS,ABS,ABS,ABS,Livre,f676
+BnF,298,"Adultes - Littératures - Romans - Romans",Adultes,Littératures,Romans,Romans,1977-08-31,"83 ","83 ",ABS,ABS,ABS,ABS,Livre,f686
+BnF,301,INC,INC,INC,INC,INC,1997-01-26,Costume,"Costume - Histoire - France",ABS,ABS,France,Histoire,Livre,f606
+BnF,301,INC,INC,INC,INC,INC,1997-01-26,"746.920 944","746.920 944",ABS,ABS,ABS,ABS,Livre,f676
+BnF,301,INC,INC,INC,INC,INC,1997-01-26,"39 ","39 ",ABS,ABS,ABS,ABS,Livre,f686
+Roubaix,303,"Patrimoine - Roubaix et sa région - Région",Patrimoine,"Roubaix et sa région",Région,INC,2007-08-28,"Picardie (France)","Picardie (France)",ABS,ABS,ABS,ABS,Livre,f607
+Roubaix,303,"Patrimoine - Roubaix et sa région - Région",Patrimoine,"Roubaix et sa région",Région,INC,2007-08-28,944,944,ABS,ABS,ABS,ABS,Livre,f676
+BnF,304,"Adultes - Comprendre et se former - Usuels (salle d'étude)",Adultes,"Comprendre et se former","Usuels (salle d'étude)",INC,1991-09-05,"Français (langue)","Français (langue) - Dictionnaires - Nord-Pas-de-Calais (France)",ABS,ABS,"Nord-Pas-de-Calais (France)",Dictionnaires,Livre,f606
+BnF,304,"Adultes - Comprendre et se former - Usuels (salle d'étude)",Adultes,"Comprendre et se former","Usuels (salle d'étude)",INC,1991-09-05,447.27,447.27,ABS,ABS,ABS,ABS,Livre,f676
+BnF,304,"Adultes - Comprendre et se former - Usuels (salle d'étude)",Adultes,"Comprendre et se former","Usuels (salle d'étude)",INC,1991-09-05,"80 ","80 ",ABS,ABS,ABS,ABS,Livre,f686
+BnF,308,"Adultes - Divers",Adultes,Divers,INC,INC,1992-10-14,Enseignement,"Enseignement - France - 1970-....",1970-....,ABS,France,ABS,Livre,f606
+BnF,308,"Adultes - Divers",Adultes,Divers,INC,INC,1992-10-14,"Sociologie de l'éducation","Sociologie de l'éducation - France",ABS,ABS,France,ABS,Livre,f606
+BnF,308,"Adultes - Divers",Adultes,Divers,INC,INC,1992-10-14,"370.150 944","370.150 944",ABS,ABS,ABS,ABS,Livre,f676
+BnF,308,"Adultes - Divers",Adultes,Divers,INC,INC,1992-10-14,"37 ","37 ",ABS,ABS,ABS,ABS,Livre,f686
+Roubaix,314,INC,INC,INC,INC,INC,2012-11-29,"Paris (France)","Paris (France) - Ouvrages illustrés",ABS,ABS,ABS,"Ouvrages illustrés",Livre,f607
+Roubaix,314,INC,INC,INC,INC,INC,2012-11-29,779,779,ABS,ABS,ABS,ABS,Livre,f676
+Roubaix,315,"Adultes - Littératures - Romans - Romans",Adultes,Littératures,Romans,Romans,2016-07-03,ABS,ABS,ABS,ABS,ABS,ABS,Livre,ABS
+BnF,317,"Adultes - Littératures - Textes littéraires",Adultes,Littératures,"Textes littéraires",INC,1993-05-14,Vieillissement,"Vieillissement - Aspect psychologique",ABS,ABS,ABS,"Aspect psychologique",Livre,f606
+BnF,317,"Adultes - Littératures - Textes littéraires",Adultes,Littératures,"Textes littéraires",INC,1993-05-14,"1  ","1  ",ABS,ABS,ABS,ABS,Livre,f686
+BnF,318,"Adultes - Divers",Adultes,Divers,INC,INC,1993-06-24,"Presse audiovisuelle","Presse audiovisuelle - France - 1970-....",1970-....,ABS,France,ABS,Livre,f606
+BnF,318,"Adultes - Divers",Adultes,Divers,INC,INC,1993-06-24,"0  ","0  ",ABS,ABS,ABS,ABS,Livre,f686
+Roubaix,319,"Adultes - Divers",Adultes,Divers,INC,INC,2005-03-22,ABS,ABS,ABS,ABS,ABS,ABS,Livre,ABS
+Roubaix,322,"Patrimoine - Patrimoine écrit",Patrimoine,"Patrimoine écrit",INC,INC,2012-04-06,"Nord (France)","Nord (France) - Roman",ABS,ABS,ABS,Roman,Livre,f607
+Roubaix,322,"Patrimoine - Patrimoine écrit",Patrimoine,"Patrimoine écrit",INC,INC,2012-04-06,"Roubaix (Nord)","Roubaix (Nord) - Roman",ABS,ABS,ABS,Roman,Livre,f607
+BnF,324,"Adultes - Littératures - Romans - Romans policiers",Adultes,Littératures,Romans,"Romans policiers",1993-05-28,823,823,ABS,ABS,ABS,ABS,Livre,f686
+BnF,328,"Adultes - Littératures - Romans - Romans",Adultes,Littératures,Romans,Romans,1989-11-22,823,823,ABS,ABS,ABS,ABS,Livre,f686
+BnF,331,INC,INC,INC,INC,INC,1993-05-18,823,823,ABS,ABS,ABS,ABS,Livre,f686
+BnF,333,"Adultes - Divers",Adultes,Divers,INC,INC,1993-09-07,"Écrits d'artistes","Écrits d'artistes - France",ABS,ABS,France,ABS,Livre,f606
+BnF,333,"Adultes - Divers",Adultes,Divers,INC,INC,1993-09-07,"Journaux français","Journaux français - Arts",ABS,ABS,ABS,Arts,Livre,f606
+BnF,333,"Adultes - Divers",Adultes,Divers,INC,INC,1993-09-07,"70 ","70 ",ABS,ABS,ABS,ABS,Livre,f686
+BnF,334,"Adultes - Littératures - Romans - Romans policiers",Adultes,Littératures,Romans,"Romans policiers",1993-06-25,823,823,ABS,ABS,ABS,ABS,Livre,f686
+BnF,335,INC,INC,INC,INC,INC,1993-06-17,823,823,ABS,ABS,ABS,ABS,Livre,f686
+BnF,337,"Adultes - Littératures - Romans - Romans",Adultes,Littératures,Romans,Romans,1993-06-03,823,823,ABS,ABS,ABS,ABS,Livre,f686
+BnF,338,"Adultes - Littératures - Romans - Romans",Adultes,Littératures,Romans,Romans,1994-03-16,823,823,ABS,ABS,ABS,ABS,Livre,f686
+BnF,339,"Adultes - Comprendre et se former - Histoire",Adultes,"Comprendre et se former",Histoire,INC,1993-06-15," Moghols "," Moghols  -  dynastie - Biographies",ABS,ABS,ABS,Biographies,Livre,f600
+BnF,339,"Adultes - Comprendre et se former - Histoire",Adultes,"Comprendre et se former",Histoire,INC,1993-06-15,"Empire moghol","Empire moghol - Histoire",ABS,ABS,ABS,Histoire,Livre,f607
+BnF,339,"Adultes - Comprendre et se former - Histoire",Adultes,"Comprendre et se former",Histoire,INC,1993-06-15,"Empire moghol","Empire moghol - Civilisation",ABS,ABS,ABS,Civilisation,Livre,f607
+BnF,339,"Adultes - Comprendre et se former - Histoire",Adultes,"Comprendre et se former",Histoire,INC,1993-06-15,954.025,954.025,ABS,ABS,ABS,ABS,Livre,f676
+BnF,339,"Adultes - Comprendre et se former - Histoire",Adultes,"Comprendre et se former",Histoire,INC,1993-06-15,"92 ","92 ",ABS,ABS,ABS,ABS,Livre,f686
+BnF,340,"Adultes - Littératures - Romans - Romans",Adultes,Littératures,Romans,Romans,1993-05-28,"813.54 (oeuvre)","813.54 (oeuvre)",ABS,ABS,ABS,ABS,Livre,f676
+BnF,340,"Adultes - Littératures - Romans - Romans",Adultes,Littératures,Romans,Romans,1993-05-28,823,823,ABS,ABS,ABS,ABS,Livre,f686
+BnF,346,"Adultes - Divers",Adultes,Divers,INC,INC,1993-04-02,Sectes,Sectes,ABS,ABS,ABS,ABS,Livre,f606
+BnF,346,"Adultes - Divers",Adultes,Divers,INC,INC,1993-04-02,"1  ","1  ",ABS,ABS,ABS,ABS,Livre,f686
+BnF,347,"Adultes - Comprendre et se former - Histoire",Adultes,"Comprendre et se former",Histoire,INC,1993-05-03,Algérie,"Algérie - 1954-1962 (Guerre d'Algérie)","1954-1962 (Guerre d'Algérie)",ABS,ABS,ABS,Livre,f607
+BnF,347,"Adultes - Comprendre et se former - Histoire",Adultes,"Comprendre et se former",Histoire,INC,1993-05-03,965.046,965.046,ABS,ABS,ABS,ABS,Livre,f676
+BnF,347,"Adultes - Comprendre et se former - Histoire",Adultes,"Comprendre et se former",Histoire,INC,1993-05-03,93,93,ABS,ABS,ABS,ABS,Livre,f686
+BnF,349,"Adultes - Comprendre et se former - Histoire",Adultes,"Comprendre et se former",Histoire,INC,1993-05-05,"Guerre mondiale (1939-1945)","Guerre mondiale (1939-1945) - Vichy (Allier)",ABS,ABS,"Vichy (Allier)",ABS,Livre,f606
+BnF,349,"Adultes - Comprendre et se former - Histoire",Adultes,"Comprendre et se former",Histoire,INC,1993-05-05,France,"France - 1940-1945 (Occupation allemande)","1940-1945 (Occupation allemande)",ABS,ABS,ABS,Livre,f607
+BnF,349,"Adultes - Comprendre et se former - Histoire",Adultes,"Comprendre et se former",Histoire,INC,1993-05-05,"Vichy (Allier)","Vichy (Allier) - 1940-1945",1940-1945,ABS,ABS,ABS,Livre,f607
+BnF,349,"Adultes - Comprendre et se former - Histoire",Adultes,"Comprendre et se former",Histoire,INC,1993-05-05,France,"France - Capitale",ABS,ABS,ABS,Capitale,Livre,f607
+BnF,349,"Adultes - Comprendre et se former - Histoire",Adultes,"Comprendre et se former",Histoire,INC,1993-05-05,"93 ","93 ",ABS,ABS,ABS,ABS,Livre,f686
+BnF,353,"Adultes - Littératures - Courts récits - Nouvelles",Adultes,Littératures,"Courts récits",Nouvelles,1993-05-28,843.914,843.914,ABS,ABS,ABS,ABS,Livre,f676
+BnF,353,"Adultes - Littératures - Courts récits - Nouvelles",Adultes,Littératures,"Courts récits",Nouvelles,1993-05-28,823,823,ABS,ABS,ABS,ABS,Livre,f686
+BnF,354,"Adultes - Arts, création, vie pratique - Arts - Arts plastiques",Adultes,"Arts, création, vie pratique",Arts,"Arts plastiques",1993-06-03,"Paris (France)","Paris (France) - Ouvrages illustrés",ABS,ABS,ABS,"Ouvrages illustrés",Livre,f607
+BnF,354,"Adultes - Arts, création, vie pratique - Arts - Arts plastiques",Adultes,"Arts, création, vie pratique",Arts,"Arts plastiques",1993-06-03,"91 ","91 ",ABS,ABS,ABS,ABS,Livre,f686
+BnF,356,"Adultes - Divers",Adultes,Divers,INC,INC,1993-05-06," Hubbard   L. Ron   1911-1986"," Hubbard  -  L. Ron  -  1911-1986",ABS,ABS,ABS,ABS,Livre,f600
+BnF,356,"Adultes - Divers",Adultes,Divers,INC,INC,1993-05-06,"92 ","92 ",ABS,ABS,ABS,ABS,Livre,f686
+BnF,357,"Adultes - Divers",Adultes,Divers,INC,INC,1993-05-06,Journalisme,"Journalisme - France - 1870-1914",1870-1914,ABS,France,ABS,Livre,f606
+BnF,357,"Adultes - Divers",Adultes,Divers,INC,INC,1993-05-06,"Presse et littérature","Presse et littérature - France - 1870-1914",1870-1914,ABS,France,ABS,Livre,f606
+BnF,357,"Adultes - Divers",Adultes,Divers,INC,INC,1993-05-06,"Presse et politique","Presse et politique - France - 1870-1914",1870-1914,ABS,France,ABS,Livre,f606
+BnF,357,"Adultes - Divers",Adultes,Divers,INC,INC,1993-05-06,"074.090 34","074.090 34",ABS,ABS,ABS,ABS,Livre,f676
+BnF,357,"Adultes - Divers",Adultes,Divers,INC,INC,1993-05-06,"0  ","0  ",ABS,ABS,ABS,ABS,Livre,f686
+BnF,359,"Adultes - Littératures - Romans - Romans",Adultes,Littératures,Romans,Romans,1993-05-19,823,823,ABS,ABS,ABS,ABS,Livre,f686
+BnF,361,"Adultes - Comprendre et se former - Usuels (salle d'étude)",Adultes,"Comprendre et se former","Usuels (salle d'étude)",INC,1995-07-28,"Grandes puissances","Grandes puissances - Cartes",ABS,ABS,ABS,Cartes,Livre,f606
+BnF,361,"Adultes - Comprendre et se former - Usuels (salle d'étude)",Adultes,"Comprendre et se former","Usuels (salle d'étude)",INC,1995-07-28,"Géographie historique","Géographie historique - Cartes",ABS,ABS,ABS,Cartes,Livre,f606
+BnF,361,"Adultes - Comprendre et se former - Usuels (salle d'étude)",Adultes,"Comprendre et se former","Usuels (salle d'étude)",INC,1995-07-28,"Histoire universelle","Histoire universelle - Cartes",ABS,ABS,ABS,Cartes,Livre,f606
+BnF,361,"Adultes - Comprendre et se former - Usuels (salle d'étude)",Adultes,"Comprendre et se former","Usuels (salle d'étude)",INC,1995-07-28,909,909,ABS,ABS,ABS,ABS,Livre,f676
+BnF,361,"Adultes - Comprendre et se former - Usuels (salle d'étude)",Adultes,"Comprendre et se former","Usuels (salle d'étude)",INC,1995-07-28,911,911,ABS,ABS,ABS,ABS,Livre,f676
+BnF,361,"Adultes - Comprendre et se former - Usuels (salle d'étude)",Adultes,"Comprendre et se former","Usuels (salle d'étude)",INC,1995-07-28,93,93,ABS,ABS,ABS,ABS,Livre,f686
+BnF,363,INC,INC,INC,INC,INC,1993-08-05,823,823,ABS,ABS,ABS,ABS,Livre,f686
+Roubaix,364,"Adultes - Musique et arts vivants - Musique - Jazz",Adultes,"Musique et arts vivants",Musique,Jazz,2016-01-31,Jazz,"Jazz - Disques - Etats-Unis",ABS,ABS,Etats-Unis,Disques,"Disque compact",f606
+Roubaix,364,"Adultes - Musique et arts vivants - Musique - Jazz",Adultes,"Musique et arts vivants",Musique,Jazz,2016-01-31,Blues,"Blues - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,364,"Adultes - Musique et arts vivants - Musique - Jazz",Adultes,"Musique et arts vivants",Musique,Jazz,2016-01-31,Jazz-rock,"Jazz-rock - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,364,"Adultes - Musique et arts vivants - Musique - Jazz",Adultes,"Musique et arts vivants",Musique,Jazz,2016-01-31,"Guitare, Musique de (jazz)","Guitare, Musique de (jazz) - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,364,"Adultes - Musique et arts vivants - Musique - Jazz",Adultes,"Musique et arts vivants",Musique,Jazz,2016-01-31,1,1,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,366,"Adultes - Musique et arts vivants - Musique - Rock",Adultes,"Musique et arts vivants",Musique,Rock,2016-01-31,"Rock (musique)","Rock (musique) - Disques - Etats-Unis",ABS,ABS,Etats-Unis,Disques,"Disque compact",f606
+Roubaix,366,"Adultes - Musique et arts vivants - Musique - Rock",Adultes,"Musique et arts vivants",Musique,Rock,2016-01-31,2,2,ABS,ABS,ABS,ABS,"Disque compact",f679
+BnF,374,"Adultes - Divers",Adultes,Divers,INC,INC,1991-07-12,Femmes,"Femmes - Conditions sociales - Yémen",ABS,ABS,Yémen,"Conditions sociales",Livre,f606
+BnF,374,"Adultes - Divers",Adultes,Divers,INC,INC,1991-07-12,Yémen,"Yémen - Moeurs et coutumes",ABS,ABS,ABS,"Moeurs et coutumes",Livre,f607
+BnF,374,"Adultes - Divers",Adultes,Divers,INC,INC,1991-07-12,"39 ","39 ",ABS,ABS,ABS,ABS,Livre,f686
+Roubaix,375,"Adultes - Musique et arts vivants - Musique - Musique d'ambiance",Adultes,"Musique et arts vivants",Musique,"Musique d'ambiance",2016-07-03,"Orgue limonaire","Orgue limonaire - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,375,"Adultes - Musique et arts vivants - Musique - Musique d'ambiance",Adultes,"Musique et arts vivants",Musique,"Musique d'ambiance",2016-07-03,"Musique mécanique","Musique mécanique - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,375,"Adultes - Musique et arts vivants - Musique - Musique d'ambiance",Adultes,"Musique et arts vivants",Musique,"Musique d'ambiance",2016-07-03,580,580,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,376,"Adultes - Musique et arts vivants - Musique - Rock",Adultes,"Musique et arts vivants",Musique,Rock,2007-08-28,"Rock (musique)","Rock (musique) - Disques - Angleterre (GB)",ABS,ABS,"Angleterre (GB)",Disques,"Disque compact",f606
+Roubaix,376,"Adultes - Musique et arts vivants - Musique - Rock",Adultes,"Musique et arts vivants",Musique,Rock,2007-08-28,2,2,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,378,"Adultes - Musique et arts vivants - Musique - Jazz",Adultes,"Musique et arts vivants",Musique,Jazz,2007-08-28,Jazz,"Jazz - Disques - Etats-Unis",ABS,ABS,Etats-Unis,Disques,"Disque compact",f606
+Roubaix,378,"Adultes - Musique et arts vivants - Musique - Jazz",Adultes,"Musique et arts vivants",Musique,Jazz,2007-08-28,"Saxophone ténor, Musique de (jazz)","Saxophone ténor, Musique de (jazz) - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,378,"Adultes - Musique et arts vivants - Musique - Jazz",Adultes,"Musique et arts vivants",Musique,Jazz,2007-08-28,Jazz-rock,"Jazz-rock - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,378,"Adultes - Musique et arts vivants - Musique - Jazz",Adultes,"Musique et arts vivants",Musique,Jazz,2007-08-28,1,1,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,380,"Adultes - Musique et arts vivants - Musique - Chanson francophone",Adultes,"Musique et arts vivants",Musique,"Chanson francophone",2007-08-28,"Rock (musique)","Rock (musique) - Disques - Lyon (Rhône)",ABS,ABS,"Lyon (Rhône)",Disques,"Disque compact",f606
+Roubaix,380,"Adultes - Musique et arts vivants - Musique - Chanson francophone",Adultes,"Musique et arts vivants",Musique,"Chanson francophone",2007-08-28,"Pop music","Pop music - Disques - Lyon (Rhône)",ABS,ABS,"Lyon (Rhône)",Disques,"Disque compact",f606
+Roubaix,380,"Adultes - Musique et arts vivants - Musique - Chanson francophone",Adultes,"Musique et arts vivants",Musique,"Chanson francophone",2007-08-28,2,2,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,381,"Adultes - Musique et arts vivants - Musique - Jazz",Adultes,"Musique et arts vivants",Musique,Jazz,2005-11-14,ABS,ABS,ABS,ABS,ABS,ABS,"Disque compact",ABS
+BnF,383,"Adultes - Littératures - Romans - Romans",Adultes,Littératures,Romans,Romans,1990-05-29,823,823,ABS,ABS,ABS,ABS,Livre,f686
+Roubaix,386,"Patrimoine - Roubaix et sa région - Fonds local régional sonore empruntable",Patrimoine,"Roubaix et sa région","Fonds local régional sonore empruntable",INC,2007-08-28,"Rock (musique)","Rock (musique) - Disques - France",ABS,ABS,France,Disques,"Disque compact",f606
+Roubaix,386,"Patrimoine - Roubaix et sa région - Fonds local régional sonore empruntable",Patrimoine,"Roubaix et sa région","Fonds local régional sonore empruntable",INC,2007-08-28,2,2,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,387,"Adultes - Musique et arts vivants - Musique - Musique classique",Adultes,"Musique et arts vivants",Musique,"Musique classique",2007-08-28,"Concertos (orgue)","Concertos (orgue) - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,387,"Adultes - Musique et arts vivants - Musique - Musique classique",Adultes,"Musique et arts vivants",Musique,"Musique classique",2007-08-28,Musique,"Musique - Disques - 17e siècle","17e siècle",ABS,ABS,Disques,"Disque compact",f606
+Roubaix,387,"Adultes - Musique et arts vivants - Musique - Musique classique",Adultes,"Musique et arts vivants",Musique,"Musique classique",2007-08-28,Musique,"Musique - Disques - 15e siècle","15e siècle",ABS,ABS,Disques,"Disque compact",f606
+Roubaix,387,"Adultes - Musique et arts vivants - Musique - Musique classique",Adultes,"Musique et arts vivants",Musique,"Musique classique",2007-08-28,Musique,"Musique - Disques - 16e siècle","16e siècle",ABS,ABS,Disques,"Disque compact",f606
+Roubaix,387,"Adultes - Musique et arts vivants - Musique - Musique classique",Adultes,"Musique et arts vivants",Musique,"Musique classique",2007-08-28,"Orgue, Musique d'","Orgue, Musique d' - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,387,"Adultes - Musique et arts vivants - Musique - Musique classique",Adultes,"Musique et arts vivants",Musique,"Musique classique",2007-08-28,3.30,3.30,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,388,"Patrimoine - Patrimoine enregistré - Fonds local régional sonore",Patrimoine,"Patrimoine enregistré","Fonds local régional sonore",INC,2007-08-28,"Musique nouvelle","Musique nouvelle - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,388,"Patrimoine - Patrimoine enregistré - Fonds local régional sonore",Patrimoine,"Patrimoine enregistré","Fonds local régional sonore",INC,2007-08-28,450,450,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,389,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,"Musique traditionnelle","Musique traditionnelle - Disques - Tchécoslovaquie",ABS,ABS,Tchécoslovaquie,Disques,"Disque compact",f606
+Roubaix,389,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,"Musique traditionnelle","Musique traditionnelle - Disques - Hongrie",ABS,ABS,Hongrie,Disques,"Disque compact",f606
+Roubaix,389,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,Violon,"Violon - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,389,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,081.1,081.1,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,390,"Adultes - Musique et arts vivants - Musique - Musique classique",Adultes,"Musique et arts vivants",Musique,"Musique classique",2016-01-31,Airs,"Airs - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,390,"Adultes - Musique et arts vivants - Musique - Musique classique",Adultes,"Musique et arts vivants",Musique,"Musique classique",2016-01-31,Musique,"Musique - Disques - 17e siècle","17e siècle",ABS,ABS,Disques,"Disque compact",f606
+Roubaix,390,"Adultes - Musique et arts vivants - Musique - Musique classique",Adultes,"Musique et arts vivants",Musique,"Musique classique",2016-01-31,Voix,"Voix - Mezzo",ABS,ABS,ABS,Mezzo,"Disque compact",f606
+Roubaix,390,"Adultes - Musique et arts vivants - Musique - Musique classique",Adultes,"Musique et arts vivants",Musique,"Musique classique",2016-01-31,3.99,3.99,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,392,"Adultes - Musique et arts vivants - Musique - Rock",Adultes,"Musique et arts vivants",Musique,Rock,2007-08-28,"Rock (musique)","Rock (musique) - Disques - Etats-Unis",ABS,ABS,Etats-Unis,Disques,"Disque compact",f606
+Roubaix,392,"Adultes - Musique et arts vivants - Musique - Rock",Adultes,"Musique et arts vivants",Musique,Rock,2007-08-28,"Pop music","Pop music - Disques - Etats-Unis",ABS,ABS,Etats-Unis,Disques,"Disque compact",f606
+Roubaix,392,"Adultes - Musique et arts vivants - Musique - Rock",Adultes,"Musique et arts vivants",Musique,Rock,2007-08-28,2,2,ABS,ABS,ABS,ABS,"Disque compact",f679
+Autre,394,"Adultes - Musique et arts vivants - Musique - Variétés",Adultes,"Musique et arts vivants",Musique,Variétés,,"Rock (musique)","Rock (musique) - Disques - Allemagne",ABS,ABS,Allemagne,Disques,"Disque compact",f606
+Autre,394,"Adultes - Musique et arts vivants - Musique - Variétés",Adultes,"Musique et arts vivants",Musique,Variétés,,"Pop music","Pop music - Disques - Allemagne",ABS,ABS,Allemagne,Disques,"Disque compact",f606
+Autre,394,"Adultes - Musique et arts vivants - Musique - Variétés",Adultes,"Musique et arts vivants",Musique,Variétés,,2,2,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,395,"Adultes - Musique et arts vivants - Musique - Chanson francophone",Adultes,"Musique et arts vivants",Musique,"Chanson francophone",2016-07-03,ABS,ABS,ABS,ABS,ABS,ABS,"Disque compact",ABS
+Roubaix,396,"Adultes - Musique et arts vivants - Musique - Rock",Adultes,"Musique et arts vivants",Musique,Rock,2007-08-28,"Rock (musique)","Rock (musique) - Disques - Pays de Galles (GB)",ABS,ABS,"Pays de Galles (GB)",Disques,"Disque compact",f606
+Roubaix,396,"Adultes - Musique et arts vivants - Musique - Rock",Adultes,"Musique et arts vivants",Musique,Rock,2007-08-28,2,2,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,397,"Adultes - Musique et arts vivants - Musique - Rock",Adultes,"Musique et arts vivants",Musique,Rock,2016-07-03,"Rock (musique)","Rock (musique) - Disques - Canada",ABS,ABS,Canada,Disques,"Disque compact",f606
+Roubaix,397,"Adultes - Musique et arts vivants - Musique - Rock",Adultes,"Musique et arts vivants",Musique,Rock,2016-07-03,2,2,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,398,"Adultes - Musique et arts vivants - Musique",Adultes,"Musique et arts vivants",Musique,INC,2016-01-31,"Chansons espagnoles","Chansons espagnoles - Disques - Argentine",ABS,ABS,Argentine,Disques,"Disque compact",f606
+Roubaix,398,"Adultes - Musique et arts vivants - Musique",Adultes,"Musique et arts vivants",Musique,INC,2016-01-31,042.2,042.2,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,399,"Adultes - Musique et arts vivants - Musique - Chanson francophone",Adultes,"Musique et arts vivants",Musique,"Chanson francophone",2016-01-31,"Chansons françaises","Chansons françaises - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,399,"Adultes - Musique et arts vivants - Musique - Chanson francophone",Adultes,"Musique et arts vivants",Musique,"Chanson francophone",2016-01-31,099.2,099.2,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,400,"Adultes - Musique et arts vivants - Musique - Chanson francophone",Adultes,"Musique et arts vivants",Musique,"Chanson francophone",2011-02-15,"Chansons françaises","Chansons françaises - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,400,"Adultes - Musique et arts vivants - Musique - Chanson francophone",Adultes,"Musique et arts vivants",Musique,"Chanson francophone",2011-02-15,099.2,099.2,ABS,ABS,ABS,ABS,"Disque compact",f679
+Autre,401,"Adultes - Arts, création, vie pratique - Cinéma, télévision et séries TV - Musique de films",Adultes,"Arts, création, vie pratique","Cinéma, télévision et séries TV","Musique de films",,"Musique de film","Musique de film - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Autre,401,"Adultes - Arts, création, vie pratique - Cinéma, télévision et séries TV - Musique de films",Adultes,"Arts, création, vie pratique","Cinéma, télévision et séries TV","Musique de films",,Funk,"Funk - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Autre,401,"Adultes - Arts, création, vie pratique - Cinéma, télévision et séries TV - Musique de films",Adultes,"Arts, création, vie pratique","Cinéma, télévision et séries TV","Musique de films",,520,520,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,402,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2005-03-22,ABS,ABS,ABS,ABS,ABS,ABS,"Disque compact",ABS
+Roubaix,404,"Patrimoine - Patrimoine enregistré - Fonds local régional sonore",Patrimoine,"Patrimoine enregistré","Fonds local régional sonore",INC,2007-08-28,"Chansons françaises","Chansons françaises - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,404,"Patrimoine - Patrimoine enregistré - Fonds local régional sonore",Patrimoine,"Patrimoine enregistré","Fonds local régional sonore",INC,2007-08-28,"Rock (musique)","Rock (musique) - Disques - Lille (Nord)",ABS,ABS,"Lille (Nord)",Disques,"Disque compact",f606
+Roubaix,404,"Patrimoine - Patrimoine enregistré - Fonds local régional sonore",Patrimoine,"Patrimoine enregistré","Fonds local régional sonore",INC,2007-08-28,"Chansons humoristiques","Chansons humoristiques - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,404,"Patrimoine - Patrimoine enregistré - Fonds local régional sonore",Patrimoine,"Patrimoine enregistré","Fonds local régional sonore",INC,2007-08-28,099.2,099.2,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,404,"Patrimoine - Patrimoine enregistré - Fonds local régional sonore",Patrimoine,"Patrimoine enregistré","Fonds local régional sonore",INC,2007-08-28,"Chansons satiriques","Chansons satiriques - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,405,"Patrimoine - Patrimoine enregistré - Fonds local régional sonore",Patrimoine,"Patrimoine enregistré","Fonds local régional sonore",INC,2007-08-28,"Musique de danse","Musique de danse - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,405,"Patrimoine - Patrimoine enregistré - Fonds local régional sonore",Patrimoine,"Patrimoine enregistré","Fonds local régional sonore",INC,2007-08-28,Polkas,"Polkas - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,405,"Patrimoine - Patrimoine enregistré - Fonds local régional sonore",Patrimoine,"Patrimoine enregistré","Fonds local régional sonore",INC,2007-08-28,"Musique traditionnelle","Musique traditionnelle - Disques - Pologne",ABS,ABS,Pologne,Disques,"Disque compact",f606
+Roubaix,405,"Patrimoine - Patrimoine enregistré - Fonds local régional sonore",Patrimoine,"Patrimoine enregistré","Fonds local régional sonore",INC,2007-08-28,571,571,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,406,"Patrimoine - Patrimoine enregistré - Fonds local régional sonore",Patrimoine,"Patrimoine enregistré","Fonds local régional sonore",INC,2007-08-28,"Musique de danse","Musique de danse - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,406,"Patrimoine - Patrimoine enregistré - Fonds local régional sonore",Patrimoine,"Patrimoine enregistré","Fonds local régional sonore",INC,2007-08-28,Polkas,"Polkas - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,406,"Patrimoine - Patrimoine enregistré - Fonds local régional sonore",Patrimoine,"Patrimoine enregistré","Fonds local régional sonore",INC,2007-08-28,"Musique traditionnelle","Musique traditionnelle - Disques - Pologne",ABS,ABS,Pologne,Disques,"Disque compact",f606
+Roubaix,406,"Patrimoine - Patrimoine enregistré - Fonds local régional sonore",Patrimoine,"Patrimoine enregistré","Fonds local régional sonore",INC,2007-08-28,570,570,ABS,ABS,ABS,ABS,"Disque compact",f679
+Autre,407,"Patrimoine - Patrimoine enregistré - Fonds local régional sonore",Patrimoine,"Patrimoine enregistré","Fonds local régional sonore",INC,,"Musique de danse","Musique de danse - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Autre,407,"Patrimoine - Patrimoine enregistré - Fonds local régional sonore",Patrimoine,"Patrimoine enregistré","Fonds local régional sonore",INC,,"Musique traditionnelle","Musique traditionnelle - Disques - Pologne",ABS,ABS,Pologne,Disques,"Disque compact",f606
+Autre,407,"Patrimoine - Patrimoine enregistré - Fonds local régional sonore",Patrimoine,"Patrimoine enregistré","Fonds local régional sonore",INC,,Polkas,"Polkas - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Autre,407,"Patrimoine - Patrimoine enregistré - Fonds local régional sonore",Patrimoine,"Patrimoine enregistré","Fonds local régional sonore",INC,,571,571,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,408,"Patrimoine - Patrimoine enregistré - Fonds local régional sonore",Patrimoine,"Patrimoine enregistré","Fonds local régional sonore",INC,2007-08-28,"Musique de danse","Musique de danse - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,408,"Patrimoine - Patrimoine enregistré - Fonds local régional sonore",Patrimoine,"Patrimoine enregistré","Fonds local régional sonore",INC,2007-08-28,"Musique traditionnelle","Musique traditionnelle - Disques - Pologne",ABS,ABS,Pologne,Disques,"Disque compact",f606
+Roubaix,408,"Patrimoine - Patrimoine enregistré - Fonds local régional sonore",Patrimoine,"Patrimoine enregistré","Fonds local régional sonore",INC,2007-08-28,Polkas,"Polkas - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,408,"Patrimoine - Patrimoine enregistré - Fonds local régional sonore",Patrimoine,"Patrimoine enregistré","Fonds local régional sonore",INC,2007-08-28,571,571,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,409,"Adultes - Divers",Adultes,Divers,INC,INC,2011-06-28,"Contes africains","Contes africains - Ouvrages pour la jeunesse",ABS,ABS,ABS,"Ouvrages pour la jeunesse",Livre,f606
+BnF,410,"Adultes - Divers",Adultes,Divers,INC,INC,1983-11-24,"83 ","83 ",ABS,ABS,ABS,ABS,Livre,f686
+BnF,411,"Adultes - Arts, création, vie pratique - Arts - Arts plastiques",Adultes,"Arts, création, vie pratique",Arts,"Arts plastiques",1990-01-26,"O'Keeffe Georgia 1887-1986","O'Keeffe - Georgia - 1887-1986",ABS,ABS,ABS,ABS,Livre,f600
+BnF,411,"Adultes - Arts, création, vie pratique - Arts - Arts plastiques",Adultes,"Arts, création, vie pratique",Arts,"Arts plastiques",1990-01-26,759.13,759.13,ABS,ABS,ABS,ABS,Livre,f676
+BnF,411,"Adultes - Arts, création, vie pratique - Arts - Arts plastiques",Adultes,"Arts, création, vie pratique",Arts,"Arts plastiques",1990-01-26,"70 ","70 ",ABS,ABS,ABS,ABS,Livre,f686
+Roubaix,419,"Adultes - Divers",Adultes,Divers,INC,INC,2007-08-28,"Moines bouddhistes","Moines bouddhistes",ABS,ABS,ABS,ABS,Livre,f606
+Roubaix,419,"Adultes - Divers",Adultes,Divers,INC,INC,2007-08-28,Tibétains,Tibétains,ABS,ABS,ABS,ABS,Livre,f606
+Roubaix,419,"Adultes - Divers",Adultes,Divers,INC,INC,2007-08-28,294.3,294.3,ABS,ABS,ABS,ABS,Livre,f676
+Roubaix,421,"Adultes - Divers",Adultes,Divers,INC,INC,2005-03-22,ABS,ABS,ABS,ABS,ABS,ABS,Livre,ABS
+Autre,424,"Patrimoine - Patrimoine enregistré - Fonds local régional sonore",Patrimoine,"Patrimoine enregistré","Fonds local régional sonore",INC,,"Rock (musique)","Rock (musique) - Disques - France",ABS,ABS,France,Disques,"Disque compact",f606
+Autre,424,"Patrimoine - Patrimoine enregistré - Fonds local régional sonore",Patrimoine,"Patrimoine enregistré","Fonds local régional sonore",INC,,"Thrash metal","Thrash metal - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Autre,424,"Patrimoine - Patrimoine enregistré - Fonds local régional sonore",Patrimoine,"Patrimoine enregistré","Fonds local régional sonore",INC,,2,2,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,425,"Patrimoine - Patrimoine enregistré - Fonds local régional sonore",Patrimoine,"Patrimoine enregistré","Fonds local régional sonore",INC,2008-05-13,"Rock (musique)","Rock (musique) - Disques - France",ABS,ABS,France,Disques,"Disque compact",f606
+Roubaix,425,"Patrimoine - Patrimoine enregistré - Fonds local régional sonore",Patrimoine,"Patrimoine enregistré","Fonds local régional sonore",INC,2008-05-13,"Rock fusion","Rock fusion - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,425,"Patrimoine - Patrimoine enregistré - Fonds local régional sonore",Patrimoine,"Patrimoine enregistré","Fonds local régional sonore",INC,2008-05-13,2,2,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,426,"Patrimoine - Patrimoine enregistré - Fonds local régional sonore",Patrimoine,"Patrimoine enregistré","Fonds local régional sonore",INC,2007-08-28,"Rock (musique)","Rock (musique) - Disques - France",ABS,ABS,France,Disques,"Disque compact",f606
+Roubaix,426,"Patrimoine - Patrimoine enregistré - Fonds local régional sonore",Patrimoine,"Patrimoine enregistré","Fonds local régional sonore",INC,2007-08-28,2,2,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,427,"Adultes - Divers",Adultes,Divers,INC,INC,2005-03-22,ABS,ABS,ABS,ABS,ABS,ABS,Livre,ABS
+Roubaix,428,"Patrimoine - Patrimoine enregistré - Fonds local régional sonore",Patrimoine,"Patrimoine enregistré","Fonds local régional sonore",INC,2007-08-28,"Rock (musique)","Rock (musique) - Disques - Nord",ABS,ABS,Nord,Disques,"Disque compact",f606
+Roubaix,428,"Patrimoine - Patrimoine enregistré - Fonds local régional sonore",Patrimoine,"Patrimoine enregistré","Fonds local régional sonore",INC,2007-08-28,"Death metal","Death metal - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,428,"Patrimoine - Patrimoine enregistré - Fonds local régional sonore",Patrimoine,"Patrimoine enregistré","Fonds local régional sonore",INC,2007-08-28,2,2,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,429,"Patrimoine - Patrimoine enregistré - Fonds local régional sonore",Patrimoine,"Patrimoine enregistré","Fonds local régional sonore",INC,2007-08-28,"Rock (musique)","Rock (musique) - Disques - Lille (Nord)",ABS,ABS,"Lille (Nord)",Disques,"Disque compact",f606
+Roubaix,429,"Patrimoine - Patrimoine enregistré - Fonds local régional sonore",Patrimoine,"Patrimoine enregistré","Fonds local régional sonore",INC,2007-08-28,2,2,ABS,ABS,ABS,ABS,"Disque compact",f679
+BnF,430,"Jeunesse - Albums - Albums pour enfants",Jeunesse,Albums,"Albums pour enfants",INC,1983-02-01,"83 ","83 ",ABS,ABS,ABS,ABS,Livre,f686
+Autre,434,"Patrimoine - Patrimoine enregistré - Fonds local régional sonore",Patrimoine,"Patrimoine enregistré","Fonds local régional sonore",INC,,"Rock (musique)","Rock (musique) - Disques - France",ABS,ABS,France,Disques,"Disque compact",f606
+Autre,434,"Patrimoine - Patrimoine enregistré - Fonds local régional sonore",Patrimoine,"Patrimoine enregistré","Fonds local régional sonore",INC,,2,2,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,435,"Patrimoine - Patrimoine enregistré - Fonds local régional sonore",Patrimoine,"Patrimoine enregistré","Fonds local régional sonore",INC,2008-09-25,"Chansons françaises","Chansons françaises - Disques",ABS,ABS,ABS,Disques,"Cassette audio",f606
+Roubaix,435,"Patrimoine - Patrimoine enregistré - Fonds local régional sonore",Patrimoine,"Patrimoine enregistré","Fonds local régional sonore",INC,2008-09-25,"Chansons patoisantes","Chansons patoisantes - Disques",ABS,ABS,ABS,Disques,"Cassette audio",f606
+Roubaix,435,"Patrimoine - Patrimoine enregistré - Fonds local régional sonore",Patrimoine,"Patrimoine enregistré","Fonds local régional sonore",INC,2008-09-25,099.2,099.2,ABS,ABS,ABS,ABS,"Cassette audio",f679
+BnF,436,"Adultes - Littératures - Romans - Romans",Adultes,Littératures,Romans,Romans,1974-01-01,823,823,ABS,ABS,ABS,ABS,Livre,f686
+BnF,437,"Adultes - Littératures - Romans - Romans",Adultes,Littératures,Romans,Romans,1977-06-15,83,83,ABS,ABS,ABS,ABS,Livre,f686
+BnF,442,"Adultes - Littératures - Romans - Romans",Adultes,Littératures,Romans,Romans,1991-11-25,823,823,ABS,ABS,ABS,ABS,Livre,f686
+BnF,445,"Adultes - Littératures - Romans - Romans",Adultes,Littératures,Romans,Romans,1992-01-16,823,823,ABS,ABS,ABS,ABS,Livre,f686
+Roubaix,446,"Adultes - Musique et arts vivants - Musique - Reggae",Adultes,"Musique et arts vivants",Musique,Reggae,2007-08-28,"Reggae (musique)","Reggae (musique) - Disques - Angleterre (GB)",ABS,ABS,"Angleterre (GB)",Disques,"Disque compact",f606
+Roubaix,446,"Adultes - Musique et arts vivants - Musique - Reggae",Adultes,"Musique et arts vivants",Musique,Reggae,2007-08-28,"Cuivres, Musique de (reggae)","Cuivres, Musique de (reggae) - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,446,"Adultes - Musique et arts vivants - Musique - Reggae",Adultes,"Musique et arts vivants",Musique,Reggae,2007-08-28,052.2,052.2,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,447,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,2007-09-03,Bibliologie,Bibliologie,ABS,ABS,ABS,ABS,Livre,f606
+Autre,448,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,,Médias,"Médias - Répertoires",ABS,ABS,ABS,Répertoires,Livre,f606
+Autre,448,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,,Audiovisuel,"Audiovisuel - Répertoires",ABS,ABS,ABS,Répertoires,Livre,f606
+BnF,449,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,1984-04-20,"Indexation (documentation)","Indexation (documentation)",ABS,ABS,ABS,ABS,Livre,f606
+BnF,449,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,1984-04-20,025.48,025.48,ABS,ABS,ABS,ABS,Livre,f676
+BnF,449,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,1984-04-20,020,020,ABS,ABS,ABS,ABS,Livre,f686
+Roubaix,450,"Adultes - Arts, création, vie pratique - Cinéma, télévision et séries TV - Musique de films",Adultes,"Arts, création, vie pratique","Cinéma, télévision et séries TV","Musique de films",2016-01-31,"Musique de film","Musique de film - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,450,"Adultes - Arts, création, vie pratique - Cinéma, télévision et séries TV - Musique de films",Adultes,"Arts, création, vie pratique","Cinéma, télévision et séries TV","Musique de films",2016-01-31,520,520,ABS,ABS,ABS,ABS,"Disque compact",f679
+BnF,451,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,1990-07-05,Bibliothèques,"Bibliothèques - Automatisation - France",ABS,ABS,France,Automatisation,Livre,f606
+BnF,451,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,1990-07-05,"Services de documentation","Services de documentation - Automatisation - France",ABS,ABS,France,Automatisation,Livre,f606
+BnF,451,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,1990-07-05,"025.002 85","025.002 85",ABS,ABS,ABS,ABS,Livre,f676
+BnF,451,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,1990-07-05,"0  ","0  ",ABS,ABS,ABS,ABS,Livre,f686
+Roubaix,452,"Patrimoine - Patrimoine écrit",Patrimoine,"Patrimoine écrit",INC,INC,2007-08-28,Bibliothèques,"Bibliothèques - Chine - 20e siècle","20e siècle",ABS,Chine,ABS,Livre,f606
+Roubaix,453,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,2007-09-03,"Indexation (documentation)","Indexation (documentation) - Guides, manuels, etc.",ABS,ABS,ABS,"Guides, manuels, etc.",Livre,f606
+Roubaix,453,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,2007-09-03,Vedettes-matières,Vedettes-matières,ABS,ABS,ABS,ABS,Livre,f606
+Roubaix,454,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,2007-08-28,"Indexation (documentation)","Indexation (documentation) - Guides, manuels, etc.",ABS,ABS,ABS,"Guides, manuels, etc.",Livre,f606
+Roubaix,454,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,2007-08-28,Audiovisuel,"Audiovisuel - Analyse et indexation des documents",ABS,ABS,ABS,"Analyse et indexation des documents",Livre,f606
+BnF,455,"Jeunesse - Bandes dessinées - Séries",Jeunesse,"Bandes dessinées",Séries,INC,1984-04-20,"83 ","83 ",ABS,ABS,ABS,ABS,Livre,f686
+Roubaix,456,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,2007-08-28,"Illustrations, images, etc.","Illustrations, images, etc. - Analyse et indexation des documents",ABS,ABS,ABS,"Analyse et indexation des documents",Livre,f606
+Roubaix,456,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,2007-08-28,Vidéo,"Vidéo - Guides, manuels, etc.",ABS,ABS,ABS,"Guides, manuels, etc.",Livre,f606
+BnF,457,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,1984-04-20,"Indexation (documentation)","Indexation (documentation)",ABS,ABS,ABS,ABS,Livre,f606
+BnF,457,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,1984-04-20,"0  ","0  ",ABS,ABS,ABS,ABS,Livre,f686
+Roubaix,459,"Adultes - Musique et arts vivants - Musique - Reggae",Adultes,"Musique et arts vivants",Musique,Reggae,2007-08-28,"Reggae (musique)","Reggae (musique) - Disques - Angleterre (GB)",ABS,ABS,"Angleterre (GB)",Disques,"Disque compact",f606
+Roubaix,459,"Adultes - Musique et arts vivants - Musique - Reggae",Adultes,"Musique et arts vivants",Musique,Reggae,2007-08-28,"Cuivres, Musique de (reggae)","Cuivres, Musique de (reggae) - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,459,"Adultes - Musique et arts vivants - Musique - Reggae",Adultes,"Musique et arts vivants",Musique,Reggae,2007-08-28,052.2,052.2,ABS,ABS,ABS,ABS,"Disque compact",f679
+BnF,460,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,1984-04-20,"Bibliographie de bibliographies","Bibliographie de bibliographies",ABS,ABS,ABS,ABS,Livre,f606
+BnF,460,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,1984-04-20,"Certificat d'aptitude aux fonctions de bibliothécaire","Certificat d'aptitude aux fonctions de bibliothécaire",ABS,ABS,ABS,ABS,Livre,f606
+BnF,460,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,1984-04-20,"0  ","0  ",ABS,ABS,ABS,ABS,Livre,f686
+BnF,462,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,1984-04-20,"Indexation (documentation)","Indexation (documentation)",ABS,ABS,ABS,ABS,Livre,f606
+BnF,462,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,1984-04-20,"00 ","00 ",ABS,ABS,ABS,ABS,Livre,f686
+BnF,464,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,1989-09-14,Catalogage,"Catalogage - Informatique - France",ABS,ABS,France,Informatique,Livre,f606
+BnF,464,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,1989-09-14,"Coopération entre bibliothèques","Coopération entre bibliothèques - France",ABS,ABS,France,ABS,Livre,f606
+BnF,464,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,1989-09-14,"Échange d'informations bibliographiques","Échange d'informations bibliographiques - France",ABS,ABS,France,ABS,Livre,f606
+BnF,464,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,1989-09-14,360,360,ABS,ABS,ABS,ABS,Livre,f686
+Roubaix,465,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2011-05-25,Tsiganes,"Tsiganes - Musique",ABS,ABS,ABS,Musique,"Disque compact",f606
+Roubaix,465,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2011-05-25,"Guitare, Musique de (flamenco)","Guitare, Musique de (flamenco) - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,465,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2011-05-25,072.2,072.2,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,465,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2011-05-25,"Flamenco (musique)","Flamenco (musique) - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,466,"Adultes - Musique et arts vivants - Musique - Reggae",Adultes,"Musique et arts vivants",Musique,Reggae,2016-01-31,"Reggae (musique)","Reggae (musique) - Disques - Afrique du Sud",ABS,ABS,"Afrique du Sud",Disques,"Disque compact",f606
+Roubaix,466,"Adultes - Musique et arts vivants - Musique - Reggae",Adultes,"Musique et arts vivants",Musique,Reggae,2016-01-31,052.2,052.2,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,467,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,Tsiganes,"Tsiganes - Musique",ABS,ABS,ABS,Musique,"Disque compact",f606
+Roubaix,467,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,Bouzouki,"Bouzouki - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,467,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,"Violon, Musique de","Violon, Musique de - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,467,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,"Accordéon, Musique d'","Accordéon, Musique d' - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,467,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,"Clarinette, Musique de","Clarinette, Musique de - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,467,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,003.1,003.1,ABS,ABS,ABS,ABS,"Disque compact",f679
+BnF,470,"Jeunesse - Romans - Romans pour enfants",Jeunesse,Romans,"Romans pour enfants",INC,1989-05-19,823,823,ABS,ABS,ABS,ABS,Livre,f686
+BnF,471,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,1991-03-26,"Bibliothèques publiques","Bibliothèques publiques - Actes de congrès - France",ABS,ABS,France,"Actes de congrès",Livre,f606
+BnF,471,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,1991-03-26,"Coopération entre bibliothèques","Coopération entre bibliothèques - Actes de congrès - France",ABS,ABS,France,"Actes de congrès",Livre,f606
+BnF,471,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,1991-03-26,"Bibliothèques publiques","Bibliothèques publiques - Actes de congrès",ABS,ABS,ABS,"Actes de congrès",Livre,f606
+BnF,471,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,1991-03-26,027.444,027.444,ABS,ABS,ABS,ABS,Livre,f676
+BnF,471,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,1991-03-26,"0  ","0  ",ABS,ABS,ABS,ABS,Livre,f686
+BnF,472,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,1989-04-05,"Bibliothèques universitaires","Bibliothèques universitaires - France",ABS,ABS,France,ABS,Livre,f606
+BnF,472,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,1989-04-05,"027.709 44","027.709 44",ABS,ABS,ABS,ABS,Livre,f676
+BnF,472,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,1989-04-05,385,385,ABS,ABS,ABS,ABS,Livre,f686
+Roubaix,473,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,2007-09-03,"Bibliothèque de France","Bibliothèque de France",ABS,ABS,ABS,ABS,Livre,f601
+Roubaix,474,"Patrimoine - Patrimoine écrit",Patrimoine,"Patrimoine écrit",INC,INC,2007-08-28,Bibliothèques,"Bibliothèques - France - 20e siècle","20e siècle",ABS,France,ABS,Livre,f606
+BnF,475,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,1992-02-14,"Bibliothèques d'entreprises","Bibliothèques d'entreprises - France",ABS,ABS,France,ABS,Livre,f606
+BnF,475,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,1992-02-14,Travailleurs,"Travailleurs - Livres et lecture - France",ABS,ABS,France,"Livres et lecture",Livre,f606
+BnF,475,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,1992-02-14,027.69,027.69,ABS,ABS,ABS,ABS,Livre,f676
+BnF,475,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,1992-02-14,362,362,ABS,ABS,ABS,ABS,Livre,f686
+Roubaix,476,"Patrimoine - Patrimoine écrit",Patrimoine,"Patrimoine écrit",INC,INC,2007-08-28,Bibliothèques,"Bibliothèques - France - 20e siècle","20e siècle",ABS,France,ABS,Livre,f606
+Roubaix,477,"Adultes - Musique et arts vivants - Musique - Reggae",Adultes,"Musique et arts vivants",Musique,Reggae,2007-08-28,"Reggae (musique)","Reggae (musique) - Disques - Jamaïque",ABS,ABS,Jamaïque,Disques,"Disque compact",f606
+Roubaix,477,"Adultes - Musique et arts vivants - Musique - Reggae",Adultes,"Musique et arts vivants",Musique,Reggae,2007-08-28,052.2,052.2,ABS,ABS,ABS,ABS,"Disque compact",f679
+BnF,483,"Adultes - Littératures - Romans - Romans",Adultes,Littératures,Romans,Romans,1983-11-03,"83 ","83 ",ABS,ABS,ABS,ABS,Livre,f686
+BnF,491,"Adultes - Littératures - Romans - Romans",Adultes,Littératures,Romans,Romans,1974-01-01,823,823,ABS,ABS,ABS,ABS,Livre,f686
+BnF,495,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,1988-02-12,Bibliothéconomie,"Bibliothéconomie - Bibliographie",ABS,ABS,ABS,Bibliographie,Livre,f606
+BnF,495,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,1988-02-12,Documentation,"Documentation - Bibliographie",ABS,ABS,ABS,Bibliographie,Livre,f606
+BnF,495,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,1988-02-12,"Bibliothèques d'écoles secondaires","Bibliothèques d'écoles secondaires - Bibliographie - France",ABS,ABS,France,Bibliographie,Livre,f606
+BnF,495,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,1988-02-12,"0  ","0  ",ABS,ABS,ABS,ABS,Livre,f686
+BnF,496,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,1989-01-16,"Bibliothèques d'écoles secondaires","Bibliothèques d'écoles secondaires - Bibliographie - France",ABS,ABS,France,Bibliographie,Livre,f606
+BnF,496,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,1989-01-16,Bibliothéconomie,"Bibliothéconomie - Bibliographie",ABS,ABS,ABS,Bibliographie,Livre,f606
+BnF,496,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,1989-01-16,Documentation,"Documentation - Bibliographie",ABS,ABS,ABS,Bibliographie,Livre,f606
+BnF,496,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,1989-01-16,"0  ","0  ",ABS,ABS,ABS,ABS,Livre,f686
+BnF,497,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,1991-08-01,"Littérature pour la jeunesse","Littérature pour la jeunesse - Bibliographie",ABS,ABS,ABS,Bibliographie,Livre,f606
+BnF,497,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,1991-08-01,Enfants,"Enfants - Guides pratiques et mémentos",ABS,ABS,ABS,"Guides pratiques et mémentos",Livre,f606
+BnF,497,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,1991-08-01,"0  ","0  ",ABS,ABS,ABS,ABS,Livre,f686
+Roubaix,498,"Jeunesse - Musique",Jeunesse,Musique,INC,INC,2007-08-28,"Danse pour enfants","Danse pour enfants - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,498,"Jeunesse - Musique",Jeunesse,Musique,INC,INC,2007-08-28,"Musique traditionnelle","Musique traditionnelle - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,498,"Jeunesse - Musique",Jeunesse,Musique,INC,INC,2007-08-28,732,732,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,499,"Adultes - Musique et arts vivants - Musique - Reggae",Adultes,"Musique et arts vivants",Musique,Reggae,2007-08-28,"Reggae (musique)","Reggae (musique) - Disques - Jamaïque",ABS,ABS,Jamaïque,Disques,"Disque compact",f606
+Roubaix,499,"Adultes - Musique et arts vivants - Musique - Reggae",Adultes,"Musique et arts vivants",Musique,Reggae,2007-08-28,052.2,052.2,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,500,"Adultes - Musique et arts vivants - Musique - Chanson francophone",Adultes,"Musique et arts vivants",Musique,"Chanson francophone",2007-08-28,"Chansons françaises","Chansons françaises - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,500,"Adultes - Musique et arts vivants - Musique - Chanson francophone",Adultes,"Musique et arts vivants",Musique,"Chanson francophone",2007-08-28,"Folk (musique)","Folk (musique) - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,500,"Adultes - Musique et arts vivants - Musique - Chanson francophone",Adultes,"Musique et arts vivants",Musique,"Chanson francophone",2007-08-28,090.2,090.2,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,501,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,2007-08-28,"Prêt (discothèques)","Prêt (discothèques) - France",ABS,ABS,France,ABS,Livre,f606
+BnF,502,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,1983-03-10,"Bibliothèques publiques","Bibliothèques publiques - France",ABS,ABS,France,ABS,Livre,f606
+BnF,502,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,1983-03-10,"Bibliothèques rurales","Bibliothèques rurales - France",ABS,ABS,France,ABS,Livre,f606
+BnF,502,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,1983-03-10,"00 ","00 ",ABS,ABS,ABS,ABS,Livre,f686
+Roubaix,504,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,2007-09-03,"Bibliothèques publiques","Bibliothèques publiques",ABS,ABS,ABS,ABS,Livre,f606
+Autre,505,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,,Guitare,Guitare,ABS,ABS,ABS,ABS,"Disque compact",f606
+Autre,505,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,,"Guitare, Musique de (country)","Guitare, Musique de (country) - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Autre,505,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,,090.2,090.2,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,507,"Adultes - Musique et arts vivants - Musique - Chanson francophone",Adultes,"Musique et arts vivants",Musique,"Chanson francophone",2007-08-28,Guitare,Guitare,ABS,ABS,ABS,ABS,"Disque compact",f606
+Roubaix,507,"Adultes - Musique et arts vivants - Musique - Chanson francophone",Adultes,"Musique et arts vivants",Musique,"Chanson francophone",2007-08-28,"Guitare, Musique de (country)","Guitare, Musique de (country) - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,507,"Adultes - Musique et arts vivants - Musique - Chanson francophone",Adultes,"Musique et arts vivants",Musique,"Chanson francophone",2007-08-28,090.2,090.2,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,508,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,2007-08-28,"Histoires d'amour","Histoires d'amour - Bibliographie",ABS,ABS,ABS,Bibliographie,Livre,f606
+Roubaix,509,"Adultes - Musique et arts vivants - Musique - Chanson francophone",Adultes,"Musique et arts vivants",Musique,"Chanson francophone",2016-01-31,Guitare,Guitare,ABS,ABS,ABS,ABS,"Disque compact",f606
+Roubaix,509,"Adultes - Musique et arts vivants - Musique - Chanson francophone",Adultes,"Musique et arts vivants",Musique,"Chanson francophone",2016-01-31,"Guitare, Musique de (country)","Guitare, Musique de (country) - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,509,"Adultes - Musique et arts vivants - Musique - Chanson francophone",Adultes,"Musique et arts vivants",Musique,"Chanson francophone",2016-01-31,090.2,090.2,ABS,ABS,ABS,ABS,"Disque compact",f679
+BnF,510,"Jeunesse - Albums - Albums pour enfants",Jeunesse,Albums,"Albums pour enfants",INC,1984-04-20,Humour,Humour,ABS,ABS,ABS,ABS,Livre,f609
+BnF,510,"Jeunesse - Albums - Albums pour enfants",Jeunesse,Albums,"Albums pour enfants",INC,1984-04-20,"Mots d'esprit et jeux de mots","Mots d'esprit et jeux de mots",ABS,ABS,ABS,ABS,Livre,f609
+BnF,510,"Jeunesse - Albums - Albums pour enfants",Jeunesse,Albums,"Albums pour enfants",INC,1984-04-20,"82 ","82 ",ABS,ABS,ABS,ABS,Livre,f686
+Roubaix,511,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,2007-08-28,Bibliographie,Bibliographie,ABS,ABS,ABS,ABS,Livre,f606
+Roubaix,512,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,2007-08-28,Bibliographie,Bibliographie,ABS,ABS,ABS,ABS,Livre,f606
+Roubaix,513,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,2009-09-16,"Var (France)","Var (France) - Bibliographie",ABS,ABS,ABS,Bibliographie,Livre,f607
+Roubaix,514,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,2007-08-28,"Enfants d'âge préscolaire","Enfants d'âge préscolaire - Livres et lecture",ABS,ABS,ABS,"Livres et lecture",Livre,f606
+Roubaix,514,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,2007-08-28,808.89,808.89,ABS,ABS,ABS,ABS,Livre,f676
+Roubaix,515,"Adultes - Musique et arts vivants - Musique - Reggae",Adultes,"Musique et arts vivants",Musique,Reggae,2016-01-31,"Tonton David","Tonton David - 1967-....",ABS,ABS,ABS,ABS,"Disque compact",f600
+Roubaix,515,"Adultes - Musique et arts vivants - Musique - Reggae",Adultes,"Musique et arts vivants",Musique,Reggae,2016-01-31,"Tonton  Tontonz ","Tonton  - Tontonz ",ABS,ABS,ABS,ABS,"Disque compact",f600
+Roubaix,515,"Adultes - Musique et arts vivants - Musique - Reggae",Adultes,"Musique et arts vivants",Musique,Reggae,2016-01-31," Tontonz  1967-....","Tontonz  - 1967-....",ABS,ABS,ABS,ABS,"Disque compact",f600
+Roubaix,515,"Adultes - Musique et arts vivants - Musique - Reggae",Adultes,"Musique et arts vivants",Musique,Reggae,2016-01-31,Raggamuffin,"Raggamuffin - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,515,"Adultes - Musique et arts vivants - Musique - Reggae",Adultes,"Musique et arts vivants",Musique,Reggae,2016-01-31,052.2,052.2,ABS,ABS,ABS,ABS,"Disque compact",f679
+BnF,516,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,1980-10-26,"Bibliographie de bibliographies","Bibliographie de bibliographies",ABS,ABS,ABS,ABS,Livre,f606
+BnF,516,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,1980-10-26,"00 ","00 ",ABS,ABS,ABS,ABS,Livre,f686
+BnF,518,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,1986-01-01,Travailleurs,"Travailleurs - Livres et lecture - France",ABS,ABS,France,"Livres et lecture",Livre,f606
+BnF,518,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,1986-01-01,"Bibliothèques d'entreprises","Bibliothèques d'entreprises - France",ABS,ABS,France,ABS,Livre,f606
+Roubaix,519,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,2007-08-28,Bibliothèques,"Bibliothèques - Activités culturelles",ABS,ABS,ABS,"Activités culturelles",Livre,f606
+BnF,520,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,1982-10-26,"Description bibliographique","Description bibliographique - Problèmes et exercices",ABS,ABS,ABS,"Problèmes et exercices",Livre,f606
+BnF,520,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,1982-10-26,"00 ","00 ",ABS,ABS,ABS,ABS,Livre,f686
+Roubaix,521,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,2007-08-28,Bibliothèques,"Bibliothèques - Statistiques",ABS,ABS,ABS,Statistiques,Livre,f606
+BnF,522,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,1978-11-10,"00 ","00 ",ABS,ABS,ABS,ABS,Livre,f686
+Roubaix,523,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,2007-08-28,Reliure,Reliure,ABS,ABS,ABS,ABS,Livre,f606
+Roubaix,524,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,Salsa,"Salsa - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,524,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,053.2,053.2,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,525,"Adultes - Musique et arts vivants - Musique - Musique d'ambiance",Adultes,"Musique et arts vivants",Musique,"Musique d'ambiance",2007-08-28,570,570,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,525,"Adultes - Musique et arts vivants - Musique - Musique d'ambiance",Adultes,"Musique et arts vivants",Musique,"Musique d'ambiance",2007-08-28,"Musique d'ambiance","Musique d'ambiance - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,526,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,Salsa,"Salsa - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,526,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,053.2,053.2,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,527,"Jeunesse - Musique",Jeunesse,Musique,INC,INC,2007-08-28,"Chansons enfantines","Chansons enfantines - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,527,"Jeunesse - Musique",Jeunesse,Musique,INC,INC,2007-08-28,712,712,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,528,"Adultes - Littératures - Romans - Romans",Adultes,Littératures,Romans,Romans,2005-12-05,ABS,ABS,ABS,ABS,ABS,ABS,Livre,ABS
+Roubaix,531,"Adultes - Divers",Adultes,Divers,INC,INC,2005-03-22,ABS,ABS,ABS,ABS,ABS,ABS,Livre,ABS
+BnF,532,"Adultes - Littératures - Romans - Romans",Adultes,Littératures,Romans,Romans,1992-11-27,823,823,ABS,ABS,ABS,ABS,Livre,f686
+BnF,535,"Adultes - Divers",Adultes,Divers,INC,INC,1984-04-20,869.342,869.342,ABS,ABS,ABS,ABS,Livre,f676
+BnF,535,"Adultes - Divers",Adultes,Divers,INC,INC,1984-04-20,"82 ","82 ",ABS,ABS,ABS,ABS,Livre,f686
+BnF,544,"Adultes - Littératures - Courts récits - Nouvelles",Adultes,Littératures,"Courts récits",Nouvelles,1984-04-20,813.54,813.54,ABS,ABS,ABS,ABS,Livre,f676
+BnF,544,"Adultes - Littératures - Courts récits - Nouvelles",Adultes,Littératures,"Courts récits",Nouvelles,1984-04-20,"83 ","83 ",ABS,ABS,ABS,ABS,Livre,f686
+BnF,546,"Adultes - Littératures - Romans - Romans",Adultes,Littératures,Romans,Romans,1988-01-27,813.54,813.54,ABS,ABS,ABS,ABS,Livre,f676
+BnF,546,"Adultes - Littératures - Romans - Romans",Adultes,Littératures,Romans,Romans,1988-01-27,823,823,ABS,ABS,ABS,ABS,Livre,f686
+Roubaix,549,"Adultes - Littératures - Romans - Romans",Adultes,Littératures,Romans,Romans,2005-12-05,ABS,ABS,ABS,ABS,ABS,ABS,Livre,ABS
+BnF,551,"Adultes - Littératures - Romans - Romans",Adultes,Littératures,Romans,Romans,1984-04-20,813.54,813.54,ABS,ABS,ABS,ABS,Livre,f676
+BnF,551,"Adultes - Littératures - Romans - Romans",Adultes,Littératures,Romans,Romans,1984-04-20,823,823,ABS,ABS,ABS,ABS,Livre,f686
+BnF,553,"Adultes - Divers",Adultes,Divers,INC,INC,1991-06-06,823,823,ABS,ABS,ABS,ABS,Livre,f686
+BnF,554,"Adultes - Littératures - Romans - Romans",Adultes,Littératures,Romans,Romans,1990-09-06,823,823,ABS,ABS,ABS,ABS,Livre,f686
+Roubaix,556,"Adultes - Divers",Adultes,Divers,INC,INC,2005-03-22,ABS,ABS,ABS,ABS,ABS,ABS,Livre,ABS
+Roubaix,557,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2016-07-03,"Musique traditionnelle","Musique traditionnelle - Disques - Iran",ABS,ABS,Iran,Disques,"Disque compact",f606
+Roubaix,557,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2016-07-03,028.1,028.1,ABS,ABS,ABS,ABS,"Disque compact",f679
+BnF,558,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,1982-10-26,"Description bibliographique","Description bibliographique - Problèmes et exercices",ABS,ABS,ABS,"Problèmes et exercices",Livre,f606
+BnF,558,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,1982-10-26,"00 ","00 ",ABS,ABS,ABS,ABS,Livre,f686
+Roubaix,560,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2016-07-03,"Chansons arabes","Chansons arabes - Disques - Tunisie",ABS,ABS,Tunisie,Disques,"Disque compact",f606
+Roubaix,560,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2016-07-03,021.2,021.2,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,561,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2016-07-03,Berbères,"Berbères - Musique",ABS,ABS,ABS,Musique,"Disque compact",f606
+Roubaix,561,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2016-07-03,"Musique traditionnelle","Musique traditionnelle - Disques - Algérie",ABS,ABS,Algérie,Disques,"Disque compact",f606
+Roubaix,561,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2016-07-03,019.1,019.1,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,562,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,"Musique traditionnelle","Musique traditionnelle - Disques - Pakistan",ABS,ABS,Pakistan,Disques,"Disque compact",f606
+Roubaix,562,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,029.1,029.1,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,563,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,"Musique traditionnelle","Musique traditionnelle - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,563,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,"Percussion, Musique de","Percussion, Musique de - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,563,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,000.2,000.2,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,564,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,"Musique traditionnelle","Musique traditionnelle - Disques - Pakistan",ABS,ABS,Pakistan,Disques,"Disque compact",f606
+Roubaix,564,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,029.1,029.1,ABS,ABS,ABS,ABS,"Disque compact",f679
+BnF,565,"Adultes - Littératures - Romans - Romans",Adultes,Littératures,Romans,Romans,1996-01-22,823,823,ABS,ABS,ABS,ABS,Livre,f686
+Autre,566,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,,"Musique traditionnelle","Musique traditionnelle - Disques - Afrique centrale",ABS,ABS,"Afrique centrale",Disques,"Disque compact",f606
+Autre,566,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,,Rumbas,"Rumbas - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Autre,566,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,,014.2,014.2,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,567,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,"Musique traditionnelle","Musique traditionnelle - Disques - Pakistan",ABS,ABS,Pakistan,Disques,"Disque compact",f606
+Roubaix,567,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,029.1,029.1,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,568,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,"Musique traditionnelle","Musique traditionnelle - Disques - Iran",ABS,ABS,Iran,Disques,"Disque compact",f606
+Roubaix,568,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,"Ney, Musique de","Ney, Musique de - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,568,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,028.1,028.1,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,570,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,"Chansons yiddish","Chansons yiddish - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,570,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,001.1,001.1,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,571,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2017-05-18,"Chansons yiddish","Chansons yiddish - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,571,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2017-05-18,001.2,001.2,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,572,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,"Musique traditionnelle","Musique traditionnelle - Disques - Pakistan",ABS,ABS,Pakistan,Disques,"Disque compact",f606
+Roubaix,572,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,029.1,029.1,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,573,"Adultes - Comprendre et se former - Langues étrangères",Adultes,"Comprendre et se former","Langues étrangères",INC,2009-09-16,Puériculture,"Puériculture - Manuels d'enseignement",ABS,ABS,ABS,"Manuels d'enseignement",Livre,f606
+Roubaix,573,"Adultes - Comprendre et se former - Langues étrangères",Adultes,"Comprendre et se former","Langues étrangères",INC,2009-09-16,Grossesse,Grossesse,ABS,ABS,ABS,ABS,Livre,f606
+Roubaix,573,"Adultes - Comprendre et se former - Langues étrangères",Adultes,"Comprendre et se former","Langues étrangères",INC,2009-09-16,Nourrissons,Nourrissons,ABS,ABS,ABS,ABS,Livre,f606
+Roubaix,574,"Adultes - Comprendre et se former - Langues étrangères",Adultes,"Comprendre et se former","Langues étrangères",INC,2009-09-16,Puériculture,"Puériculture - Manuels d'enseignement",ABS,ABS,ABS,"Manuels d'enseignement",Livre,f606
+Roubaix,574,"Adultes - Comprendre et se former - Langues étrangères",Adultes,"Comprendre et se former","Langues étrangères",INC,2009-09-16,Enfants,"Enfants - Alimentation",ABS,ABS,ABS,Alimentation,Livre,f606
+Roubaix,575,"Adultes - Littératures - Romans - Romans",Adultes,Littératures,Romans,Romans,2005-12-05,ABS,ABS,ABS,ABS,ABS,ABS,Livre,ABS
+Roubaix,576,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,"Musique traditionnelle","Musique traditionnelle - Disques - Inde",ABS,ABS,Inde,Disques,"Disque compact",f606
+Roubaix,576,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,031.1,031.1,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,577,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,"Musique traditionnelle","Musique traditionnelle - Disques - Inde",ABS,ABS,Inde,Disques,"Disque compact",f606
+Roubaix,577,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,031.1,031.1,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,578,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,"Musique traditionnelle","Musique traditionnelle - Disques - Inde",ABS,ABS,Inde,Disques,"Disque compact",f606
+Roubaix,578,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,031.1,031.1,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,579,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,Salsa,"Salsa - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,579,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,Musique,"Musique - Disques - Cuba",ABS,ABS,Cuba,Disques,"Disque compact",f606
+Roubaix,579,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,053.2,053.2,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,582,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,"Musique traditionnelle","Musique traditionnelle - Disques - Inde",ABS,ABS,Inde,Disques,"Disque compact",f606
+Roubaix,582,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,"Santūr, Musique de","Santūr, Musique de - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,582,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,031.1,031.1,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,583,"Patrimoine - Patrimoine enregistré - Fonds local régional sonore",Patrimoine,"Patrimoine enregistré","Fonds local régional sonore",INC,2007-08-28,"Musique traditionnelle","Musique traditionnelle - Disques - Inde",ABS,ABS,Inde,Disques,"Disque compact",f606
+Roubaix,583,"Patrimoine - Patrimoine enregistré - Fonds local régional sonore",Patrimoine,"Patrimoine enregistré","Fonds local régional sonore",INC,2007-08-28,031.1,031.1,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,584,"Patrimoine - Patrimoine écrit",Patrimoine,"Patrimoine écrit",INC,INC,2005-03-22,ABS,ABS,ABS,ABS,ABS,ABS,Livre,ABS
+Roubaix,585,"Adultes - Divers",Adultes,Divers,INC,INC,2005-03-22,ABS,ABS,ABS,ABS,ABS,ABS,Livre,ABS
+Roubaix,586,"Adultes - Divers",Adultes,Divers,INC,INC,2005-03-22,ABS,ABS,ABS,ABS,ABS,ABS,Livre,ABS
+Roubaix,587,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,"Musique traditionnelle","Musique traditionnelle - Disques - Inde",ABS,ABS,Inde,Disques,"Disque compact",f606
+Roubaix,587,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,Sarode,"Sarode - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,587,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,031.1,031.1,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,588,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2016-01-31,Musique,"Musique - Disques - Inde",ABS,ABS,Inde,Disques,"Disque compact",f606
+Roubaix,588,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2016-01-31,031.1,031.1,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,589,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,"Musique traditionnelle","Musique traditionnelle - Disques - Maroc",ABS,ABS,Maroc,Disques,"Disque compact",f606
+Roubaix,589,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,021.1,021.1,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,590,"Adultes - Divers",Adultes,Divers,INC,INC,2005-03-22,ABS,ABS,ABS,ABS,ABS,ABS,Livre,ABS
+BnF,591,"Adultes - Divers",Adultes,Divers,INC,INC,1994-11-30,Musique,"Musique - Bibliographie",ABS,ABS,ABS,Bibliographie,Livre,f606
+BnF,591,"Adultes - Divers",Adultes,Divers,INC,INC,1994-11-30,"Imprimés français","Imprimés français - Bibliographie - 1945-1990",1945-1990,ABS,ABS,Bibliographie,Livre,f606
+BnF,591,"Adultes - Divers",Adultes,Divers,INC,INC,1994-11-30,"0  ","0  ",ABS,ABS,ABS,ABS,Livre,f686
+Roubaix,592,"Adultes - Divers",Adultes,Divers,INC,INC,2005-03-22,ABS,ABS,ABS,ABS,ABS,ABS,Livre,ABS
+BnF,593,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,1984-04-20," Livres illustrés pour enfants"," Livres illustrés pour enfants - France - 1945-1990",1945-1990,ABS,France,ABS,Livre,f606
+BnF,593,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,1984-04-20,"Illustrateurs pour la jeunesse","Illustrateurs pour la jeunesse - France",ABS,ABS,France,ABS,Livre,f606
+BnF,593,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,1984-04-20,"741.642 0944","741.642 0944",ABS,ABS,ABS,ABS,Livre,f676
+BnF,593,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,1984-04-20,"70 ","70 ",ABS,ABS,ABS,ABS,Livre,f686
+Roubaix,594,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,"Chants sacrés","Chants sacrés - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,594,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,Tibet,"Tibet - Chants et musique",ABS,ABS,ABS,"Chants et musique","Disque compact",f606
+Roubaix,594,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,032.1,032.1,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,595,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,Musique,"Musique - Disques - Egypte",ABS,ABS,Egypte,Disques,"Disque compact",f606
+Roubaix,595,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,022.2,022.2,ABS,ABS,ABS,ABS,"Disque compact",f679
+BnF,596,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,1984-04-20,"Livres et lecture","Livres et lecture - Histoire - France",ABS,ABS,France,Histoire,Livre,f606
+BnF,596,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,1984-04-20,"Bibliothèques publiques","Bibliothèques publiques - Histoire - France",ABS,ABS,France,Histoire,Livre,f606
+BnF,596,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,1984-04-20,"00 ","00 ",ABS,ABS,ABS,ABS,Livre,f686
+Roubaix,597,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,"Chants sacrés","Chants sacrés - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,597,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,Musique,"Musique - Disques - Turquie",ABS,ABS,Turquie,Disques,"Disque compact",f606
+Roubaix,597,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,"Musique soufi","Musique soufi - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,597,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,026.1,026.1,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,598,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,Musique,"Musique - Disques - Turquie",ABS,ABS,Turquie,Disques,"Disque compact",f606
+Roubaix,598,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,"Chants sacrés","Chants sacrés - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,598,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,"Musique traditionnelle","Musique traditionnelle - Disques - Turquie",ABS,ABS,Turquie,Disques,"Disque compact",f606
+Roubaix,598,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,"Musique soufi","Musique soufi - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,598,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,026.1,026.1,ABS,ABS,ABS,ABS,"Disque compact",f679
+BnF,600,"Jeunesse - Romans - Romans pour enfants",Jeunesse,Romans,"Romans pour enfants",INC,1983-12-16,83,83,ABS,ABS,ABS,ABS,Livre,f686
+Roubaix,601,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,2010-09-08,Médiathèques,Médiathèques,ABS,ABS,ABS,ABS,Livre,f606
+BnF,602,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,1984-04-20,"Meilleurs disques","Meilleurs disques",ABS,ABS,ABS,ABS,Livre,f606
+BnF,602,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,1984-04-20,780.166,780.166,ABS,ABS,ABS,ABS,Livre,f676
+BnF,602,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,1984-04-20,"70 ","70 ",ABS,ABS,ABS,ABS,Livre,f686
+Roubaix,603,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,2007-08-28,"France (Nord)","France (Nord) - Littératures",ABS,ABS,ABS,Littératures,Livre,f607
+BnF,605,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,1984-04-20,"Enregistrements sonores","Enregistrements sonores - Classification",ABS,ABS,ABS,Classification,Livre,f606
+BnF,605,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,1984-04-20,"025.466 2138932","025.466 2138932",ABS,ABS,ABS,ABS,Livre,f676
+BnF,605,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,1984-04-20,00,00,ABS,ABS,ABS,ABS,Livre,f686
+BnF,611,"Adultes - Divers",Adultes,Divers,INC,INC,1982-02-24,"83 ","83 ",ABS,ABS,ABS,ABS,Livre,f686
+Roubaix,612,"Patrimoine - Patrimoine écrit",Patrimoine,"Patrimoine écrit",INC,INC,2011-05-20,"Textiles et tissus","Textiles et tissus - Roman - Lille (Nord ; agglomération)",ABS,ABS,"Lille (Nord ; agglomération)",Roman,Livre,f606
+BnF,614,"Adultes - Littératures - Romans - Romans",Adultes,Littératures,Romans,Romans,1984-04-20,"82 ","82 ",ABS,ABS,ABS,ABS,Livre,f686
+Roubaix,615,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,2007-09-03,Bibliothéconomie,Bibliothéconomie,ABS,ABS,ABS,ABS,Livre,f606
+Roubaix,615,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,2007-09-03,Catalogage,Catalogage,ABS,ABS,ABS,ABS,Livre,f606
+Roubaix,615,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,2007-09-03,Livres,"Livres - Conservation et restauration",ABS,ABS,ABS,"Conservation et restauration",Livre,f606
+Roubaix,615,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,2007-09-03,"Documentation de bibliothèque","Documentation de bibliothèque - Conservation et restauration",ABS,ABS,ABS,"Conservation et restauration",Livre,f606
+Roubaix,616,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2016-07-03,Musique,"Musique - Disques - Argentine",ABS,ABS,Argentine,Disques,"Disque compact",f606
+Roubaix,616,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2016-07-03,Tangos,"Tangos - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,616,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2016-07-03,Bandonéon,"Bandonéon - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,616,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2016-07-03,042.2,042.2,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,617,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,2007-08-28,Immigrés,"Immigrés - Ouvrages pour la jeunesse",ABS,ABS,ABS,"Ouvrages pour la jeunesse",Livre,f606
+Roubaix,617,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,2007-08-28,Racisme,"Racisme - Ouvrages pour la jeunesse",ABS,ABS,ABS,"Ouvrages pour la jeunesse",Livre,f606
+Roubaix,618,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,"Musique traditionnelle","Musique traditionnelle - Disques - Touva",ABS,ABS,Touva,Disques,"Disque compact",f606
+Roubaix,618,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,067.1,067.1,ABS,ABS,ABS,ABS,"Disque compact",f679
+BnF,619,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,1984-01-01,"Bibliothèques municipales","Bibliothèques municipales - France",ABS,ABS,France,ABS,Livre,f606
+BnF,619,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,1984-01-01,417,417,ABS,ABS,ABS,ABS,Livre,f686
+Roubaix,620,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,Musique,"Musique - Disques - Argentine",ABS,ABS,Argentine,Disques,"Disque compact",f606
+Roubaix,620,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,Tangos,"Tangos - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,620,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,Bandonéon,"Bandonéon - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,620,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,042.2,042.2,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,621,"Jeunesse - Albums - Contes en livre sonore",Jeunesse,Albums,"Contes en livre sonore",INC,2013-03-06,"Contes musicaux","Contes musicaux - Disques",ABS,ABS,ABS,Disques,"Livre sonore",f609
+Roubaix,621,"Jeunesse - Albums - Contes en livre sonore",Jeunesse,Albums,"Contes en livre sonore",INC,2013-03-06,721,721,ABS,ABS,ABS,ABS,"Livre sonore",f679
+Roubaix,623,"Adultes - Divers",Adultes,Divers,INC,INC,2005-03-22,ABS,ABS,ABS,ABS,ABS,ABS,Livre,ABS
+BnF,624,"Adultes - Littératures - Romans - Romans",Adultes,Littératures,Romans,Romans,1989-03-22,823,823,ABS,ABS,ABS,ABS,Livre,f686
+Roubaix,625,"Adultes - Divers",Adultes,Divers,INC,INC,2016-07-03,ABS,ABS,ABS,ABS,ABS,ABS,Livre,ABS
+BnF,626,"Adultes - Divers",Adultes,Divers,INC,INC,1978-07-29,"83 ","83 ",ABS,ABS,ABS,ABS,Livre,f686
+Roubaix,627,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,"Musique traditionnelle","Musique traditionnelle - Disques - Turquie",ABS,ABS,Turquie,Disques,"Disque compact",f606
+Roubaix,627,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,Tanbûr,"Tanbûr - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,627,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,026.1,026.1,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,628,"Adultes - Divers",Adultes,Divers,INC,INC,2016-07-03,ABS,ABS,ABS,ABS,ABS,ABS,Livre,ABS
+Roubaix,629,"Adultes - Divers",Adultes,Divers,INC,INC,2016-07-03,ABS,ABS,ABS,ABS,ABS,ABS,Livre,ABS
+BnF,630,"Adultes - Littératures - Romans - Romans",Adultes,Littératures,Romans,Romans,1992-07-24,843.912,843.912,ABS,ABS,ABS,ABS,Livre,f676
+BnF,630,"Adultes - Littératures - Romans - Romans",Adultes,Littératures,Romans,Romans,1992-07-24,823,823,ABS,ABS,ABS,ABS,Livre,f686
+Roubaix,631,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,"Musique traditionnelle","Musique traditionnelle - Disques - Iran",ABS,ABS,Iran,Disques,"Disque compact",f606
+Roubaix,631,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,028.1,028.1,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,632,"Adultes - Divers",Adultes,Divers,INC,INC,2005-03-22,ABS,ABS,ABS,ABS,ABS,ABS,Livre,ABS
+Roubaix,633,"Adultes - Divers",Adultes,Divers,INC,INC,2005-03-22,ABS,ABS,ABS,ABS,ABS,ABS,Livre,ABS
+Roubaix,634,"Adultes - Divers",Adultes,Divers,INC,INC,2005-03-22,ABS,ABS,ABS,ABS,ABS,ABS,Livre,ABS
+BnF,635,"Adultes - Littératures - Romans - Romans",Adultes,Littératures,Romans,Romans,1984-04-20,"82 ","82 ",ABS,ABS,ABS,ABS,Livre,f686
+Roubaix,636,"Adultes - Divers",Adultes,Divers,INC,INC,2008-06-11,ABS,ABS,ABS,ABS,ABS,ABS,Livre,ABS
+Roubaix,637,"Adultes - Divers",Adultes,Divers,INC,INC,2005-03-22,ABS,ABS,ABS,ABS,ABS,ABS,Livre,ABS
+Roubaix,638,"Adultes - Musique et arts vivants - Musique",Adultes,"Musique et arts vivants",Musique,INC,2007-09-03,Catalogage,"Catalogage - Enregistrements sonores",ABS,ABS,ABS,"Enregistrements sonores",Livre,f606
+Roubaix,638,"Adultes - Musique et arts vivants - Musique",Adultes,"Musique et arts vivants",Musique,INC,2007-09-03,"Bibliothécaires musicaux","Bibliothécaires musicaux",ABS,ABS,ABS,ABS,Livre,f606
+Roubaix,638,"Adultes - Musique et arts vivants - Musique",Adultes,"Musique et arts vivants",Musique,INC,2007-09-03,"Discothèque de France","Discothèque de France - Périodiques",ABS,ABS,ABS,Périodiques,Livre,f601
+Roubaix,639,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,"Chant a capella","Chant a capella - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,639,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,"Chansons portugaises","Chansons portugaises - Disques - Brésil",ABS,ABS,Brésil,Disques,"Disque compact",f606
+Roubaix,639,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,049.2,049.2,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,642,"Adultes - Musique et arts vivants - Musique - Chanson francophone",Adultes,"Musique et arts vivants",Musique,"Chanson francophone",2007-08-28,"Quintettes de cuivres (clarinettes (5))","Quintettes de cuivres (clarinettes (5)) - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,642,"Adultes - Musique et arts vivants - Musique - Chanson francophone",Adultes,"Musique et arts vivants",Musique,"Chanson francophone",2007-08-28,"Musique traditionnelle","Musique traditionnelle - Disques - Bretagne",ABS,ABS,Bretagne,Disques,"Disque compact",f606
+Roubaix,642,"Adultes - Musique et arts vivants - Musique - Chanson francophone",Adultes,"Musique et arts vivants",Musique,"Chanson francophone",2007-08-28,090.2,090.2,ABS,ABS,ABS,ABS,"Disque compact",f679
+BnF,643,"Adultes - Littératures - Romans - Romans",Adultes,Littératures,Romans,Romans,1984-04-20,"82 ","82 ",ABS,ABS,ABS,ABS,Livre,f686
+Roubaix,644,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,"Musique traditionnelle","Musique traditionnelle - Disques - Brésil",ABS,ABS,Brésil,Disques,"Disque compact",f606
+Roubaix,644,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,"Percussion, Musique de","Percussion, Musique de - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,644,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,049.1,049.1,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,645,"Adultes - Divers",Adultes,Divers,INC,INC,2005-03-22,ABS,ABS,ABS,ABS,ABS,ABS,Livre,ABS
+Roubaix,646,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,2007-08-28,Jouets,"Jouets - Ouvrages pour la jeunesse",ABS,ABS,ABS,"Ouvrages pour la jeunesse",Livre,f606
+Roubaix,647,"Adultes - Divers",Adultes,Divers,INC,INC,2005-03-22,ABS,ABS,ABS,ABS,ABS,ABS,Livre,ABS
+Roubaix,649,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,"Chansons portugaises","Chansons portugaises - Disques - Brésil",ABS,ABS,Brésil,Disques,"Disque compact",f606
+Roubaix,649,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,049.2,049.2,ABS,ABS,ABS,ABS,"Disque compact",f679
+BnF,650,"Adultes - Divers",Adultes,Divers,INC,INC,1979-02-20,889.334,889.334,ABS,ABS,ABS,ABS,Livre,f676
+BnF,650,"Adultes - Divers",Adultes,Divers,INC,INC,1979-02-20,"84 ","84 ",ABS,ABS,ABS,ABS,Livre,f686
+Roubaix,651,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,"Musique traditionnelle","Musique traditionnelle - Disques - Chine",ABS,ABS,Chine,Disques,"Disque compact",f606
+Roubaix,651,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,033.1,033.1,ABS,ABS,ABS,ABS,"Disque compact",f679
+BnF,652,"Adultes - Littératures - Romans - Romans",Adultes,Littératures,Romans,Romans,1988-08-12,823,823,ABS,ABS,ABS,ABS,Livre,f686
+BnF,653,"Adultes - Littératures - Romans - Romans",Adultes,Littératures,Romans,Romans,1988-06-20,823,823,ABS,ABS,ABS,ABS,Livre,f686
+Roubaix,654,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,"Musique traditionnelle","Musique traditionnelle - Disques - Chine",ABS,ABS,Chine,Disques,"Disque compact",f606
+Roubaix,654,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,033.1,033.1,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,655,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,Musique,"Musique - Disques - Antilles",ABS,ABS,Antilles,Disques,"Disque compact",f606
+Roubaix,655,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,"Zouk (musique)","Zouk (musique) - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,655,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,051.2,051.2,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,656,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,Musique,"Musique - Disques - Antilles",ABS,ABS,Antilles,Disques,"Disque compact",f606
+Roubaix,656,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,"Zouk (musique)","Zouk (musique) - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,656,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,051.2,051.2,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,657,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,Musique,"Musique - Disques - Antilles",ABS,ABS,Antilles,Disques,"Disque compact",f606
+Roubaix,657,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,"Zouk (musique)","Zouk (musique) - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,657,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,051.2,051.2,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,658,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,"Musique traditionnelle","Musique traditionnelle - Disques - Chine",ABS,ABS,Chine,Disques,"Disque compact",f606
+Roubaix,658,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,"Cithare, Musique de","Cithare, Musique de - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,658,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,033.1,033.1,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,659,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,"Chansons espagnoles","Chansons espagnoles - Disques - Argentine",ABS,ABS,Argentine,Disques,"Disque compact",f606
+Roubaix,659,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,042.2,042.2,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,660,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,"Musique traditionnelle","Musique traditionnelle - Disques - Bali",ABS,ABS,Bali,Disques,"Disque compact",f606
+Roubaix,660,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,037.1,037.1,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,661,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,"Musique traditionnelle","Musique traditionnelle - Disques - Corée",ABS,ABS,Corée,Disques,"Disque compact",f606
+Roubaix,661,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,034.1,034.1,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,662,"Jeunesse - Albums - Albums pour enfants",Jeunesse,Albums,"Albums pour enfants",INC,2010-09-23,ABS,ABS,ABS,ABS,ABS,ABS,Livre,ABS
+Roubaix,663,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,"Musique traditionnelle","Musique traditionnelle - Disques - Mongolie",ABS,ABS,Mongolie,Disques,"Disque compact",f606
+Roubaix,663,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,033.1,033.1,ABS,ABS,ABS,ABS,"Disque compact",f679
+BnF,664,"Jeunesse - Albums - Albums pour enfants",Jeunesse,Albums,"Albums pour enfants",INC,1975-06-05,"83 ","83 ",ABS,ABS,ABS,ABS,Livre,f686
+Roubaix,665,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,Salsa,"Salsa - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,665,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,Musique,"Musique - Disques - Brésil",ABS,ABS,Brésil,Disques,"Disque compact",f606
+Roubaix,665,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,053.2,053.2,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,666,"Adultes - Musique et arts vivants - Musique - Chanson francophone",Adultes,"Musique et arts vivants",Musique,"Chanson francophone",2007-08-28,"Musique traditionnelle","Musique traditionnelle - Disques - France",ABS,ABS,France,Disques,"Disque compact",f606
+Roubaix,666,"Adultes - Musique et arts vivants - Musique - Chanson francophone",Adultes,"Musique et arts vivants",Musique,"Chanson francophone",2007-08-28,"Chansons traditionnelles françaises","Chansons traditionnelles françaises - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,666,"Adultes - Musique et arts vivants - Musique - Chanson francophone",Adultes,"Musique et arts vivants",Musique,"Chanson francophone",2007-08-28,090.1,090.1,ABS,ABS,ABS,ABS,"Disque compact",f679
+BnF,668,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,1984-04-20,Paralittérature,"Paralittérature - Bibliographie analytique - France",ABS,ABS,France,"Bibliographie analytique",Livre,f606
+BnF,668,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,1984-04-20,00,00,ABS,ABS,ABS,ABS,Livre,f686
+Roubaix,669,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,"Musique traditionnelle","Musique traditionnelle - Disques - Chine",ABS,ABS,Chine,Disques,"Disque compact",f606
+Roubaix,669,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,Musique,"Musique - Disques - Chine",ABS,ABS,Chine,Disques,"Disque compact",f606
+Roubaix,669,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,033.1,033.1,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,671,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,"Musique traditionnelle","Musique traditionnelle - Disques - Chine",ABS,ABS,Chine,Disques,"Disque compact",f606
+Roubaix,671,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,033.1,033.1,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,672,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,2007-08-28,Bibliographie,Bibliographie,ABS,ABS,ABS,ABS,Livre,f606
+Roubaix,673,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,"Musique traditionnelle","Musique traditionnelle - Disques - Chine",ABS,ABS,Chine,Disques,"Disque compact",f606
+Roubaix,673,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,033.1,033.1,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,674,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,"Musique traditionnelle","Musique traditionnelle - Disques - Bolivie",ABS,ABS,Bolivie,Disques,"Disque compact",f606
+Roubaix,674,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,044.1,044.1,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,675,"Adultes - Musique et arts vivants - Musique - Chanson francophone",Adultes,"Musique et arts vivants",Musique,"Chanson francophone",2007-08-28,"Chansons traditionnelles françaises","Chansons traditionnelles françaises - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,675,"Adultes - Musique et arts vivants - Musique - Chanson francophone",Adultes,"Musique et arts vivants",Musique,"Chanson francophone",2007-08-28,090.1,090.1,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,676,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,2007-08-28,Catalogage,Catalogage,ABS,ABS,ABS,ABS,Livre,f606
+Roubaix,677,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,"Musique traditionnelle","Musique traditionnelle - Disques - Mexique",ABS,ABS,Mexique,Disques,"Disque compact",f606
+Roubaix,677,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,055.1,055.1,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,678,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,2011-05-04,Bibliothèques,"Bibliothèques - Livres rares",ABS,ABS,ABS,"Livres rares",Livre,f606
+Roubaix,679,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,"Chansons kabyles","Chansons kabyles - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,679,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,019.2,019.2,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,684,"Adultes - Divers",Adultes,Divers,INC,INC,2005-03-22,ABS,ABS,ABS,ABS,ABS,ABS,Livre,ABS
+BnF,685,"Adultes - Divers",Adultes,Divers,INC,INC,1970-01-01,833.914,833.914,ABS,ABS,ABS,ABS,Livre,f676
+BnF,685,"Adultes - Divers",Adultes,Divers,INC,INC,1970-01-01,823,823,ABS,ABS,ABS,ABS,Livre,f686
+BnF,688,"Adultes - Littératures - Romans - Romans",Adultes,Littératures,Romans,Romans,1988-01-21,823,823,ABS,ABS,ABS,ABS,Livre,f686
+BnF,689,"Adultes - Divers",Adultes,Divers,INC,INC,1970-01-01,823,823,ABS,ABS,ABS,ABS,Livre,f686
+Roubaix,690,"Adultes - Divers",Adultes,Divers,INC,INC,2005-03-22,ABS,ABS,ABS,ABS,ABS,ABS,Livre,ABS
+BnF,692,"Adultes - Divers",Adultes,Divers,INC,INC,1973-01-01,823,823,ABS,ABS,ABS,ABS,Livre,f686
+Roubaix,693,"Adultes - Divers",Adultes,Divers,INC,INC,2005-03-22,ABS,ABS,ABS,ABS,ABS,ABS,Livre,ABS
+BnF,694,"Adultes - Divers",Adultes,Divers,INC,INC,1977-06-03,"83 ","83 ",ABS,ABS,ABS,ABS,Livre,f686
+BnF,695,"Adultes - Divers",Adultes,Divers,INC,INC,1984-04-20,863,863,ABS,ABS,ABS,ABS,Livre,f676
+BnF,695,"Adultes - Divers",Adultes,Divers,INC,INC,1984-04-20,"82 ","82 ",ABS,ABS,ABS,ABS,Livre,f686
+BnF,696,"Adultes - Divers",Adultes,Divers,INC,INC,1973-01-01,823,823,ABS,ABS,ABS,ABS,Livre,f686
+Roubaix,698,"Adultes - Divers",Adultes,Divers,INC,INC,2005-03-22,ABS,ABS,ABS,ABS,ABS,ABS,Livre,ABS
+BnF,700,"Adultes - Divers",Adultes,Divers,INC,INC,1980-05-09,"83 ","83 ",ABS,ABS,ABS,ABS,Livre,f686
+BnF,701,"Adultes - Littératures - Romans - Romans",Adultes,Littératures,Romans,Romans,1991-05-17,823,823,ABS,ABS,ABS,ABS,Livre,f686
+BnF,704,"Adultes - Littératures - Romans - Romans",Adultes,Littératures,Romans,Romans,1984-04-20,833.91,833.91,ABS,ABS,ABS,ABS,Livre,f676
+BnF,704,"Adultes - Littératures - Romans - Romans",Adultes,Littératures,Romans,Romans,1984-04-20,"83 ","83 ",ABS,ABS,ABS,ABS,Livre,f686
+Roubaix,708,"Adultes - Divers",Adultes,Divers,INC,INC,2011-02-15,ABS,ABS,ABS,ABS,ABS,ABS,Livre,ABS
+Roubaix,709,"Adultes - Divers",Adultes,Divers,INC,INC,2011-02-15,ABS,ABS,ABS,ABS,ABS,ABS,Livre,ABS
+BnF,714,"Adultes - Divers",Adultes,Divers,INC,INC,1975-01-20,83,83,ABS,ABS,ABS,ABS,Livre,f686
+BnF,715,"Adultes - Divers",Adultes,Divers,INC,INC,1972-01-01,"82 ","82 ",ABS,ABS,ABS,ABS,Livre,f686
+BnF,717,"Adultes - Divers",Adultes,Divers,INC,INC,1976-05-12,"83 ","83 ",ABS,ABS,ABS,ABS,Livre,f686
+Roubaix,718,"Adultes - Divers",Adultes,Divers,INC,INC,2005-03-22,ABS,ABS,ABS,ABS,ABS,ABS,Livre,ABS
+BnF,724,"Adultes - Littératures - Romans - Romans",Adultes,Littératures,Romans,Romans,1991-12-02," Dubuisson   Pauline   1927-1963"," Dubuisson  -  Pauline  -  1927-1963",ABS,ABS,ABS,ABS,Livre,f600
+BnF,724,"Adultes - Littératures - Romans - Romans",Adultes,Littératures,Romans,Romans,1991-12-02,"Crimes passionnels","Crimes passionnels - Paris (France) - 1945-1970",1945-1970,ABS,"Paris (France)",ABS,Livre,f606
+BnF,724,"Adultes - Littératures - Romans - Romans",Adultes,Littératures,Romans,Romans,1991-12-02,"92 ","92 ",ABS,ABS,ABS,ABS,Livre,f686
+BnF,725,"Adultes - Littératures - Courts récits - Nouvelles",Adultes,Littératures,"Courts récits",Nouvelles,1984-04-20,"83 ","83 ",ABS,ABS,ABS,ABS,Livre,f686
+BnF,726,"Adultes - Divers",Adultes,Divers,INC,INC,1977-04-08,"83 ","83 ",ABS,ABS,ABS,ABS,Livre,f686
+BnF,730,"Adultes - Littératures - Romans - Romans",Adultes,Littératures,Romans,Romans,1984-04-20,"82 ","82 ",ABS,ABS,ABS,ABS,Livre,f686
+BnF,732,"Adultes - Littératures - Courts récits - Nouvelles",Adultes,Littératures,"Courts récits",Nouvelles,1991-10-29,813.52,813.52,ABS,ABS,ABS,ABS,Livre,f676
+BnF,732,"Adultes - Littératures - Courts récits - Nouvelles",Adultes,Littératures,"Courts récits",Nouvelles,1991-10-29,823,823,ABS,ABS,ABS,ABS,Livre,f686
+Roubaix,736,"Patrimoine - Patrimoine écrit",Patrimoine,"Patrimoine écrit",INC,INC,2005-03-22,ABS,ABS,ABS,ABS,ABS,ABS,Livre,ABS
+BnF,738,"Adultes - Littératures - Courts récits - Nouvelles",Adultes,Littératures,"Courts récits",Nouvelles,1979-11-29,"83 ","83 ",ABS,ABS,ABS,ABS,Livre,f686
+BnF,743,"Adultes - Littératures - Courts récits - Nouvelles",Adultes,Littératures,"Courts récits",Nouvelles,1989-04-11,823,823,ABS,ABS,ABS,ABS,Livre,f686
+BnF,744,"Adultes - Littératures - Romans - Romans",Adultes,Littératures,Romans,Romans,1984-04-20,813.5,813.5,ABS,ABS,ABS,ABS,Livre,f676
+BnF,744,"Adultes - Littératures - Romans - Romans",Adultes,Littératures,Romans,Romans,1984-04-20,"82 ","82 ",ABS,ABS,ABS,ABS,Livre,f686
+BnF,747,"Adultes - Littératures - Romans - Romans",Adultes,Littératures,Romans,Romans,1989-08-22,823,823,ABS,ABS,ABS,ABS,Livre,f686
+BnF,749,"Adultes - Divers",Adultes,Divers,INC,INC,1981-03-13,833.8,833.8,ABS,ABS,ABS,ABS,Livre,f676
+BnF,749,"Adultes - Divers",Adultes,Divers,INC,INC,1981-03-13,"83 ","83 ",ABS,ABS,ABS,ABS,Livre,f686
+BnF,750,"Adultes - Littératures - Romans - Romans",Adultes,Littératures,Romans,Romans,1983-03-24,"83 ","83 ",ABS,ABS,ABS,ABS,Livre,f686
+BnF,751,"Adultes - Littératures - Romans - Romans",Adultes,Littératures,Romans,Romans,1983-04-13,843.91,843.91,ABS,ABS,ABS,ABS,Livre,f676
+BnF,751,"Adultes - Littératures - Romans - Romans",Adultes,Littératures,Romans,Romans,1983-04-13,"83 ","83 ",ABS,ABS,ABS,ABS,Livre,f686
+BnF,752,"Adultes - Divers",Adultes,Divers,INC,INC,1984-04-20,83,83,ABS,ABS,ABS,ABS,Livre,f686
+BnF,755,"Adultes - Littératures - Romans - Romans",Adultes,Littératures,Romans,Romans,1990-09-24,823,823,ABS,ABS,ABS,ABS,Livre,f686
+BnF,756,"Adultes - Littératures - Romans - Romans",Adultes,Littératures,Romans,Romans,1991-09-09,813.54,813.54,ABS,ABS,ABS,ABS,Livre,f676
+BnF,756,"Adultes - Littératures - Romans - Romans",Adultes,Littératures,Romans,Romans,1991-09-09,823,823,ABS,ABS,ABS,ABS,Livre,f686
+BnF,762,"Adultes - Divers",Adultes,Divers,INC,INC,1984-04-20,"83 ","83 ",ABS,ABS,ABS,ABS,Livre,f686
+BnF,770,INC,INC,INC,INC,INC,1984-04-20,"82 ","82 ",ABS,ABS,ABS,ABS,Livre,f686
+BnF,772,"Adultes - Divers",Adultes,Divers,INC,INC,1980-05-05,"83 ","83 ",ABS,ABS,ABS,ABS,Livre,f686
+BnF,781,"Jeunesse - Romans - Romans pour enfants",Jeunesse,Romans,"Romans pour enfants",INC,1981-11-04,"83 ","83 ",ABS,ABS,ABS,ABS,Livre,f686
+BnF,782,"Jeunesse - Romans - Romans pour enfants",Jeunesse,Romans,"Romans pour enfants",INC,1982-01-15,"83 ","83 ",ABS,ABS,ABS,ABS,Livre,f686
+Roubaix,783,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,Musique,"Musique - Disques - Antilles",ABS,ABS,Antilles,Disques,"Disque compact",f606
+Roubaix,783,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,"Zouk (musique)","Zouk (musique) - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,783,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,051.2,051.2,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,784,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,Tibet,"Tibet - Chants et musique",ABS,ABS,ABS,"Chants et musique","Disque compact",f606
+Roubaix,784,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,"Musique traditionnelle","Musique traditionnelle - Disques - Tibet",ABS,ABS,Tibet,Disques,"Disque compact",f606
+Roubaix,784,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,032.1,032.1,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,785,"Adultes - Musique et arts vivants - Musique - Chanson francophone",Adultes,"Musique et arts vivants",Musique,"Chanson francophone",2007-08-28,"Chansons traditionnelles françaises","Chansons traditionnelles françaises - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,785,"Adultes - Musique et arts vivants - Musique - Chanson francophone",Adultes,"Musique et arts vivants",Musique,"Chanson francophone",2007-08-28,090.1,090.1,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,786,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,2007-08-28,"Iconos (banque de données)","Iconos (banque de données)",ABS,ABS,ABS,ABS,Livre,f606
+Roubaix,787,"Patrimoine - Patrimoine écrit",Patrimoine,"Patrimoine écrit",INC,INC,2007-08-28,Livres,"Livres - Histoire",ABS,ABS,ABS,Histoire,Livre,f606
+Roubaix,789,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,"Musique traditionnelle","Musique traditionnelle - Disques - Corée",ABS,ABS,Corée,Disques,"Disque compact",f606
+Roubaix,789,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,034.1,034.1,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,790,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,2007-09-03,Bibliothèques,Bibliothèques,ABS,ABS,ABS,ABS,Livre,f606
+Roubaix,791,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2011-02-01,"Musique traditionnelle","Musique traditionnelle - Disques - Inde",ABS,ABS,Inde,Disques,"Disque compact",f606
+Roubaix,791,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2011-02-01,031.1,031.1,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,793,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,Musique,"Musique - Disques - Mali",ABS,ABS,Mali,Disques,"Disque compact",f606
+Roubaix,793,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,"Musique traditionnelle","Musique traditionnelle - Disques - Mali",ABS,ABS,Mali,Disques,"Disque compact",f606
+Roubaix,793,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,017.2,017.2,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,794,"Adultes - Musique et arts vivants - Musique - Chanson francophone",Adultes,"Musique et arts vivants",Musique,"Chanson francophone",2007-08-28,"Chansons traditionnelles bretonnes","Chansons traditionnelles bretonnes - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,794,"Adultes - Musique et arts vivants - Musique - Chanson francophone",Adultes,"Musique et arts vivants",Musique,"Chanson francophone",2007-08-28,"Musique traditionnelle","Musique traditionnelle - Disques - Bretagne",ABS,ABS,Bretagne,Disques,"Disque compact",f606
+Roubaix,794,"Adultes - Musique et arts vivants - Musique - Chanson francophone",Adultes,"Musique et arts vivants",Musique,"Chanson francophone",2007-08-28,"Harpe celtique, Musique de","Harpe celtique, Musique de - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,794,"Adultes - Musique et arts vivants - Musique - Chanson francophone",Adultes,"Musique et arts vivants",Musique,"Chanson francophone",2007-08-28,091.2,091.2,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,795,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,2007-08-28,Jazz,"Jazz - Discographie - France",ABS,ABS,France,Discographie,Livre,f606
+BnF,797,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,1988-06-02,Expositions,"Expositions - Évaluation",ABS,ABS,ABS,"Évaluation",Livre,f606
+BnF,797,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,1988-06-02,361,361,ABS,ABS,ABS,ABS,Livre,f686
+BnF,798,"Adultes - Divers",Adultes,Divers,INC,INC,1979-08-22,"83 ","83 ",ABS,ABS,ABS,ABS,Livre,f686
+Roubaix,800,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,2007-09-03,"Bibliothèques d'écoles primaires","Bibliothèques d'écoles primaires - France",ABS,ABS,France,ABS,Livre,f606
+Roubaix,800,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,2007-09-03,Vedettes-matières,Vedettes-matières,ABS,ABS,ABS,ABS,Livre,f606
+Roubaix,801,"Patrimoine - Patrimoine écrit",Patrimoine,"Patrimoine écrit",INC,INC,2005-03-22,ABS,ABS,ABS,ABS,ABS,ABS,Livre,ABS
+Roubaix,802,"Adultes - Divers",Adultes,Divers,INC,INC,2005-03-22,ABS,ABS,ABS,ABS,ABS,ABS,Livre,ABS
+Roubaix,803,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,2007-08-28,"Droits de l'homme","Droits de l'homme - Bibliographie",ABS,ABS,ABS,Bibliographie,Livre,f606
+Roubaix,804,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,"Musique traditionnelle","Musique traditionnelle - Disques - Corée",ABS,ABS,Corée,Disques,"Disque compact",f606
+Roubaix,804,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,034.1,034.1,ABS,ABS,ABS,ABS,"Disque compact",f679
+BnF,805,"Jeunesse - Romans - Romans pour enfants",Jeunesse,Romans,"Romans pour enfants",INC,1979-03-13,823,823,ABS,ABS,ABS,ABS,Livre,f686
+Roubaix,806,"Adultes - Musique et arts vivants - Musique - Chanson francophone",Adultes,"Musique et arts vivants",Musique,"Chanson francophone",2010-06-04,"Chansons traditionnelles françaises","Chansons traditionnelles françaises - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,806,"Adultes - Musique et arts vivants - Musique - Chanson francophone",Adultes,"Musique et arts vivants",Musique,"Chanson francophone",2010-06-04,"Chansons traditionnelles bretonnes","Chansons traditionnelles bretonnes - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,806,"Adultes - Musique et arts vivants - Musique - Chanson francophone",Adultes,"Musique et arts vivants",Musique,"Chanson francophone",2010-06-04,"Chansons traditionnelles anglaises","Chansons traditionnelles anglaises - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,806,"Adultes - Musique et arts vivants - Musique - Chanson francophone",Adultes,"Musique et arts vivants",Musique,"Chanson francophone",2010-06-04,"Chansons de marins","Chansons de marins - Disques",ABS,ABS,ABS,Disques,"Disque compact",f606
+Roubaix,806,"Adultes - Musique et arts vivants - Musique - Chanson francophone",Adultes,"Musique et arts vivants",Musique,"Chanson francophone",2010-06-04,091.1,091.1,ABS,ABS,ABS,ABS,"Disque compact",f679
+BnF,808,"Adultes - Littératures - Courts récits - Nouvelles",Adultes,Littératures,"Courts récits",Nouvelles,1992-12-01,863,863,ABS,ABS,ABS,ABS,Livre,f676
+BnF,808,"Adultes - Littératures - Courts récits - Nouvelles",Adultes,Littératures,"Courts récits",Nouvelles,1992-12-01,823,823,ABS,ABS,ABS,ABS,Livre,f686
+BnF,809,"Adultes - Littératures - Romans - Romans",Adultes,Littératures,Romans,Romans,1989-11-22,823,823,ABS,ABS,ABS,ABS,Livre,f686
+BnF,811,"Adultes - Divers",Adultes,Divers,INC,INC,1977-07-25,"83 ","83 ",ABS,ABS,ABS,ABS,Livre,f686
+BnF,812,"Adultes - Divers",Adultes,Divers,INC,INC,1984-04-20,863,863,ABS,ABS,ABS,ABS,Livre,f676
+BnF,812,"Adultes - Divers",Adultes,Divers,INC,INC,1984-04-20,"82 ","82 ",ABS,ABS,ABS,ABS,Livre,f686
+BnF,815,"Adultes - Divers",Adultes,Divers,INC,INC,1976-07-27,"83 ","83 ",ABS,ABS,ABS,ABS,Livre,f686
+BnF,824,"Adultes - Divers",Adultes,Divers,INC,INC,1971-01-01,823,823,ABS,ABS,ABS,ABS,Livre,f686
+Roubaix,825,"Adultes - Divers",Adultes,Divers,INC,INC,2005-03-22,ABS,ABS,ABS,ABS,ABS,ABS,Livre,ABS
+Roubaix,827,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,2007-08-28,Catalogage,Catalogage,ABS,ABS,ABS,ABS,Livre,f606
+Roubaix,828,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,2007-08-28,"Indexation (documentation)","Indexation (documentation) - Guides, manuels, etc.",ABS,ABS,ABS,"Guides, manuels, etc.",Livre,f606
+Roubaix,829,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,"Musique traditionnelle","Musique traditionnelle - Disques - Japon",ABS,ABS,Japon,Disques,"Disque compact",f606
+Roubaix,829,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,035.1,035.1,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,830,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,"Musique traditionnelle","Musique traditionnelle - Disques - Viet-Nam",ABS,ABS,Viet-Nam,Disques,"Disque compact",f606
+Roubaix,830,"Adultes - Musique et arts vivants - Musique - World",Adultes,"Musique et arts vivants",Musique,World,2007-08-28,036.1,036.1,ABS,ABS,ABS,ABS,"Disque compact",f679
+Roubaix,831,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,2007-08-28,Thésaurus,"Thésaurus - Guides, manuels",ABS,ABS,ABS,"Guides, manuels",Livre,f606
+Roubaix,832,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,2007-09-03,Catalogues-matière,Catalogues-matière,ABS,ABS,ABS,ABS,Livre,f606
+Roubaix,833,"Adultes - Comprendre et se former - Bibliothèque professionnelle",Adultes,"Comprendre et se former","Bibliothèque professionnelle",INC,2007-09-03,Catalogage,"Catalogage - Publications en série",ABS,ABS,ABS,"Publications en série",Livre,f606

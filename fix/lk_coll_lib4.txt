@@ -1,0 +1,61 @@
+AAPATAP|Arts plastiques
+AAPATLC|Loisirs créatifs
+AAPBDCM|Bande dessinée : Comics
+AAPBDDC|Bande dessinée (documentaires)
+AAPBDER|Bande dessinée érotique
+AAPBDMG|Bande dessinée : Mangas
+AAPBDSR|Bande dessinée en série
+AAPBDZZ|Bande dessinée
+AAPCGDA|Dessin animé
+AAPCGDD|Dessin animé (documentaires)
+AAPCGVI|Documentaires sur les jeux vidéo
+AAPCIDC|Documentaires sur le cinéma et la télévision
+AAPCIFI|Films
+AAPCIMF|Musique de films
+AAPCITV|Séries TV
+AAPPLCB|Cuisine et bricolage
+AAPPLFF|Faune et flore
+AAPPLGO|Géographie
+AAPPLHU|Humour
+AAPPLMS|Médecine et santé
+AAPPLPA|Parentalité
+AAPPLPS|Psychologie
+AAPPLSL|Sports et loisirs
+AAPPRLD|Livres précieux (documentaires)
+AAPPRLP|Livres précieux
+ACFPMZZ|Presse masculine / féminine
+ALTIGFA|Fantasy
+ALTIGSF|Science - fiction
+ALTROAD|Romans (adolescents)
+ALTROAM|Romans d'amour
+ALTROPL|Romans policiers
+ALTROZZ|Romans
+ALTTCCN|Contes
+ALTTCNV|Nouvelles
+AMV00ZZ|Musique Généralités
+AMV11ZZ|Blues et Gospel
+AMV13ZZ|Jazz
+AMV14ZZ|Soul
+AMV15ZZ|Rap
+AMV16ZZ|Reggae
+AMV20ZZ|Rock
+AMV25ZZ|Métal
+AMV29ZZ|Variétés
+AMV30ZZ|Musique classique
+AMV39ZZ|Musique contemporaine
+AMV40ZZ|Techno
+AMV50ZZ|Musique d'ambiance
+AMV80ZZ|Chanson francophone
+AMV90ZZ|World
+AMVASCA|Arts du spectacle
+AMVASDC|Arts du spectacle (documentaire)
+AMVTHCA|Théâtre (captations)
+AMVTHDC|Théâtre (documentaires)
+AMVTHTX|Théâtre (textes)
+JABLADT|Documentaire
+JABLAFI|Fiction
+JCIFED1|Eveil
+JCIFED2|Petite enfance
+JCIFED3|Enfants
+JCIFEF1|A partir de 6 ans
+JCIFEF2|A partir de 9 ans

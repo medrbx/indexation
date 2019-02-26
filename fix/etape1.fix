@@ -1,0 +1,50 @@
+# biblionumber
+copy_field(_id, biblionumber)
+
+# support
+marc_map(099t, support)
+lookup(support, "fix/lk_support.txt", sep_char:"|", default:NC)
+
+# agence de catalogage
+if marc_match(801b,'595126101')
+    add_field(agence_cat, 'Roubaix')
+elsif marc_match(801b,'FR-751131015')
+    add_field(agence_cat, 'BnF')
+elsif marc_match(801b,'CDMAIL')
+    add_field(agence_cat, 'CDMAIL')
+elsif marc_match(801b,'COLACO')
+    add_field(agence_cat, 'COLACO')
+elsif marc_match(801b,'ADAV')
+    add_field(agence_cat, 'ADAV')    
+else    
+    add_field(agence_cat, 'Autre')
+end
+
+# On définit une collection de "référence" pour la notice bibliographique.
+#La collection est en effet une donnée exemplaire : il est possible (mais rare) que pour une même notice bibliographique
+# coexistent plusieurs codes de collections. Pour simplifier, on définit la règle suivante :
+# - si parmi les codes figurent un code relevant du patrimoine, celui-ci l'emporte
+# - sinon, on retient le premier code
+marc_map(995h, ccode.$append)
+do list(path:ccode, var:c)
+    if all_match(c, "^P")
+        copy_field(c,ccode_ref)
+    end
+end
+
+unless exists(ccode_ref)
+    copy_field(ccode.0,ccode_ref)
+end
+
+# On transcrit les codes en libellés, pour créer une arborescence en 4 niveaux.
+copy_field(ccode_ref, coll_lib1)
+lookup(coll_lib1, "fix/lk_coll_lib1.txt", sep_char:"|", default:NP)
+copy_field(ccode_ref, coll_lib2)
+lookup(coll_lib2, "fix/lk_coll_lib2.txt", sep_char:"|", default:NP)
+copy_field(ccode_ref, coll_lib3)
+lookup(coll_lib3, "fix/lk_coll_lib3.txt", sep_char:"|", default:NP)
+copy_field(ccode_ref, coll_lib4)
+lookup(coll_lib4, "fix/lk_coll_lib4.txt", sep_char:"|", default:NP)
+
+# On récupère un objet "record" (ensemble des données unimarc sous forme de liste de liste) et le résultat des premières transformations
+retain (record, biblionumber, support, agence_cat, coll_lib1, coll_lib2, coll_lib3, coll_lib4)

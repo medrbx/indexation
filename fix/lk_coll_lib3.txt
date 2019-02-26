@@ -1,0 +1,174 @@
+A01|Vie pratique et loisirs
+A13|Cinéma, télévision et séries TV
+A142|Vie pratique et loisirs
+AAPATAP|Arts
+AAPATLC|Arts
+AAPBDCM|Bande dessinées
+AAPBDDC|Bande dessinées
+AAPBDER|Bande dessinées
+AAPBDMG|Bande dessinées
+AAPBDSR|Bande dessinées
+AAPBDZZ|Bande dessinées
+AAPCGDA|Création graphique et vidéo, cinéma d'animation
+AAPCGDD|Création graphique et vidéo, cinéma d'animation
+AAPCGVI|Création graphique et vidéo, cinéma d'animation
+AAPCIDC|Cinéma, télévision et séries TV
+AAPCIFI|Cinéma, télévision et séries TV
+AAPCIMF|Cinéma, télévision et séries TV
+AAPCITV|Cinéma, télévision et séries TV
+AAPPLCB|Vie pratique et loisirs
+AAPPLFF|Vie pratique et loisirs
+AAPPLGO|Vie pratique et loisirs
+AAPPLHU|Vie pratique et loisirs
+AAPPLMS|Vie pratique et loisirs
+AAPPLPA|Vie pratique et loisirs
+AAPPLPS|Vie pratique et loisirs
+AAPPLSL|Vie pratique et loisirs
+AAPPRLD|Livres précieux
+AAPPRLP|Livres précieux
+ACFBPZZ|Bibliothèque professionnelle
+ACFHSZZ|Histoire
+ACFIFZZ|Informatique
+ACFLAFF|Français et FLE
+ACFLALE|Langues étrangères
+ACFPAZZ|Presse d'actualité
+ACFPDZZ|Presse ados
+ACFPHZZ|Philosophie
+ACFPMZZ|Vie pratique et loisirs
+ACFREZZ|Religions
+ACFRUZZ|Réussir
+ACFSCZZ|Sciences et technologies
+ACFSSZZ|Sciences sociales
+ACFUEZZ|Usuels (salle d'étude)
+ALTDCZZ|Littérature (documentaires)
+ALTIGFA|Littératures de l'imaginaire
+ALTIGSF|Littératures de l'imaginaire
+ALTLSZZ|Livres audio
+ALTLVZZ|Livres large vision
+ALTPOZZ|Poésie
+ALTROAD|Romans
+ALTROAM|Romans
+ALTROPL|Romans
+ALTROZZ|Romans
+ALTTCCN|Courts récits
+ALTTCNV|Courts récits
+ALTTLZZ|Textes littéraires
+AMV00ZZ|Musique
+AMV11ZZ|Musique
+AMV13ZZ|Musique
+AMV14ZZ|Musique
+AMV15ZZ|Musique
+AMV16ZZ|Musique
+AMV20ZZ|Musique
+AMV25ZZ|Musique
+AMV29ZZ|Musique
+AMV30ZZ|Musique
+AMV39ZZ|Musique
+AMV40ZZ|Musique
+AMV50ZZ|Musique
+AMV80ZZ|Musique
+AMV90ZZ|Musique
+AMVASCA|Arts vivants
+AMVASDC|Arts vivants
+AMVTHCA|Arts vivants
+AMVTHDC|Arts vivants
+AMVTHTX|Arts vivants
+D01|Musique
+D010|Musique
+D011|Musique
+D012|Musique
+D013|Musique
+D014|Musique
+D015|Musique
+D0152|Musique
+D019|Musique
+D02|Musique
+D03|Musique
+D04|Musique
+D05|Musique
+D06|Musique
+D07|Musique
+D08|Musique
+D10|Musique
+D11|Musique
+D12|Musique
+D14|Musique
+D21|Musique
+D30|Musique
+E29|Bande dessinées
+J01|Romans
+J02|Romans
+J03|Romans
+J04|Albums enfants
+J05|Albums Petits enfants
+J051|Albums Petits enfants
+J052|Albums Petits enfants
+J053|Albums Petits enfants
+J07|Contes
+J071|Contes
+J08|Premiers romans
+J14|Langues
+J26|Albums enfants
+J27|Fonds didactique
+J28|Livres précieux
+J29|Livres sonores romans
+J30|Livres sonores contes
+J31|Parentalité
+J32|
+JABCTEF|Contes pour enfants
+JABCTPE|Contes pour petits enfants
+JABEFAE|Albums pour enfants
+JABEFDT|Documentaires
+JABHLZZ|Contes en livre sonore
+JABLADT|Albums en langue étrangère
+JABLAFI|Albums en langue étrangère
+JABLPZZ|Livres précieux
+JABPFAF|Albums petits enfants
+JABPFCO|Comptines
+JABPFEV|Eveil
+JABPFIP|Imagiers petits enfants
+JBDCLZZ|Classiques
+JBDCMZZ|Comics
+JBDMGZZ|Mangas
+JBDPBZZ|Premières BD
+JBDSRZZ|Séries
+JBDZZZZ|Bandes dessinées enfants
+JCIDTZZ|Documentaires
+JCIFED1|Dessins animés
+JCIFED2|Dessins animés
+JCIFED3|Dessins animés
+JCIFEF1|Films
+JCIFEF2|Films
+JCIFEMG|Mangas
+JDT00ZZ|Informatique / Culture générale (enfants)
+JDT10ZZ|Philosophie (enfants)
+JDT20ZZ|Religions (enfants)
+JDT30ZZ|Société (enfants)
+JDT40ZZ|Langues (enfants)
+JDT50ZZ|Sciences / Animaux (enfants)
+JDT60ZZ|Santé / Cuisine / Jeux et sports (enfants)
+JDT70ZZ|Activités manuelles / Arts (enfants)
+JDT80ZZ|Littérature (enfants)
+JDT90ZZ|Géographie / Histoire (enfants)
+JDTCPZZ|Ouvrages pour classes patrimoine
+JDTFDZZ|Fonds didactique
+JDTPFZZ|Documentaires pour petits enfants
+JROHLZZ|Romans en livre sonore
+JROPLZZ|Romans policiers pour enfants
+JRORMZZ|Premiers romans
+JROROZZ|Romans pour enfants
+JROSFZZ|Science-fiction
+PENCVZZ|Fonds Charles Verstraete
+PENDEZZ|Fonds Desette
+PENHPZZ|Fonds Heath et Payant - enregistrements
+PENPDZZ|Collection Patrice Desdoit
+PENRSZZ|Fonds local régional sonore
+PPAFIZZ|Fonds local image
+PPELGZZ|Patrimoine écrit - legs Destombes
+PPEPMZZ|Patrimoine musical imprimé
+PPEPRZZ|Périodiques patrimoniaux
+PPIPIZZ|Patrimoine iconographique
+PRRFIZZ|Films autour de Roubaix et sa région
+PRRMEZZ|Fonds local régional sonore empruntable
+PRRRGZZ|Région
+PRRRXZZ|Roubaix
